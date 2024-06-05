@@ -1,7 +1,7 @@
 [
   {
     "name": "秘塔",
-    "url": "https://metaso.cn/?q=%s",
+    "url": "https://metaso.cn/?q=",
     "icon": "https://cdn.jsdelivr.net/gh/psqhhh/nav@image/nav-1717581979648-下载.svg",
     "placeholder": "秘塔搜索，速度快，且质量准确。",
     "blocked": false,
