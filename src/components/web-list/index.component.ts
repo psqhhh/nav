@@ -45,7 +45,7 @@ export class WebListComponent {
 
         if (this.search && q.trim()) {
           const result = fuzzySearch(this.websiteList, q)
-          if (result.length === 0) {
+          if (result.length === 0 || !result[0].nav || !Array.isArray(result[0].nav)) {
             this.dataList = []
           } else {
             this.dataList = result[0].nav.slice(0, this.max)

@@ -36,7 +36,7 @@
               isCollapsed && item.icon
                 ? ''
                 : isCollapsed && !item.icon
-                ? item.title.slice(0, 4)
+                ? (item.title || '').slice(0, 4)
                 : item.title
             }}</span>
           </ng-template>

@@ -87,6 +87,10 @@ export class CardComponent implements OnInit {
   }
 
   get html() {
+    // 安全检查：确保 desc 存在且为字符串
+    if (!this.dataSource.desc || typeof this.dataSource.desc !== 'string') {
+      return ''
+    }
     return this.dataSource.desc.slice(1)
   }
 

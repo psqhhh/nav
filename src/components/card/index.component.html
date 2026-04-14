@@ -1,6 +1,6 @@
 <div
   class="card-container progrcode"
-  *ngIf="dataSource.desc && dataSource.desc[0] === '!'; else other"
+  *ngIf="dataSource.desc && dataSource.desc.length > 0 && dataSource.desc[0] === '!'; else other"
   [innerHTML]="html | safeHtml"
 ></div>
 
