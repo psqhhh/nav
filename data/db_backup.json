@@ -1,481 +1,5 @@
 [
   {
-    "id": 20000,
-    "title": "🏗️ 工程人充电站",
-    "icon": "",
-    "createdAt": "2026-04-17T06:07:44.556Z",
-    "nav": [
-      {
-        "id": 20001,
-        "title": "建造师考试",
-        "icon": "",
-        "createdAt": "2026-04-17T06:07:44.557Z",
-        "nav": [
-          {
-            "name": "中国人事考试网",
-            "url": "http://www.cpta.com.cn",
-            "desc": "官方报名、成绩查询入口",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "住房和城乡建设部",
-            "url": "http://www.mohurd.gov.cn",
-            "desc": "建造师注册、政策发布",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "233网校一建频道",
-            "url": "https://www.233.com/jzs1",
-            "desc": "一建历年真题、视频课程",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "建设工程教育网",
-            "url": "https://www.jianshe99.com",
-            "desc": "建筑行业权威培训平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "环球网校建造师",
-            "url": "https://www.hqwx.com/web_news/jzs1",
-            "desc": "一建二建备考资料大全",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "中国建设教育协会",
-            "url": "http://www.ccen.com.cn",
-            "desc": "行业培训、继续教育",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          }
-        ]
-      },
-      {
-        "id": 20002,
-        "title": "规范标准",
-        "icon": "",
-        "createdAt": "2026-04-17T06:07:44.557Z",
-        "nav": [
-          {
-            "name": "国家工程建设标准化信息网",
-            "url": "http://www.ccsn.gov.cn",
-            "desc": "国标行标权威发布平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "中国建筑标准设计网",
-            "url": "https://www.chinabuilding.com.cn",
-            "desc": "国标图集查询购买",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "国家标准全文公开系统",
-            "url": "http://www.gb688.cn",
-            "desc": "免费查阅国家标准PDF",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "工标网",
-            "url": "http://www.csres.com",
-            "desc": "工程标准搜索引擎",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "住建部标准定额司",
-            "url": "http://www.mohurd.gov.cn/bzde",
-            "desc": "标准发布公告、征求意见",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "建标库",
-            "url": "https://www.jianbiaoku.com",
-            "desc": "7000+法规标准数字化",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          }
-        ]
-      },
-      {
-        "id": 20003,
-        "title": "项目管理",
-        "icon": "",
-        "createdAt": "2026-04-17T06:07:44.557Z",
-        "nav": [
-          {
-            "name": "PMI中国",
-            "url": "https://www.pmichina.org",
-            "desc": "PMP认证、项目管理权威",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "PMBOK资源中心",
-            "url": "https://www.pmi.org",
-            "desc": "项目管理圣经官方网站",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "项目管理联盟",
-            "url": "http://www.21cpm.com",
-            "desc": "国内PM社区、案例分享",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "Coursera项目管理课",
-            "url": "https://www.coursera.org",
-            "desc": "斯坦福大学专项课程",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "ONES项目管理",
-            "url": "https://ones.com.cn/knowledge",
-            "desc": "项目管理知识库",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "项目管理评论",
-            "url": "http://www.pmreview.com.cn",
-            "desc": "行业期刊、实战案例",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          }
-        ]
-      },
-      {
-        "id": 20004,
-        "title": "沟通与职场",
-        "icon": "",
-        "createdAt": "2026-04-17T06:07:44.557Z",
-        "nav": [
-          {
-            "name": "得到APP",
-            "url": "https://www.dedao.cn",
-            "desc": "沟通、管理精品课程",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "樊登读书",
-            "url": "https://www.dushu365.com",
-            "desc": "管理、沟通书籍解读",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "刘润公众号",
-            "url": "https://runliubusiness.com",
-            "desc": "商业思维、管理洞察",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "非暴力沟通",
-            "url": "https://book.douban.com/subject/3533221",
-            "desc": "人际关系经典著作",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "关键对话",
-            "url": "https://book.douban.com/subject/10535487",
-            "desc": "高风险沟通技巧",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "影响力",
-            "url": "https://book.douban.com/subject/17061",
-            "desc": "说服心理学经典",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          }
-        ]
-      },
-      {
-        "id": 20005,
-        "title": "市政工具",
-        "icon": "",
-        "createdAt": "2026-04-17T06:07:44.557Z",
-        "nav": [
-          {
-            "name": "广联达服务新干线",
-            "url": "https://www.fwxgx.com",
-            "desc": "造价软件、答疑社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "Autodesk Civil 3D",
-            "url": "https://www.autodesk.com.cn/industry/civil-engineering",
-            "desc": "市政BIM设计软件",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "品茗BIM市政算量",
-            "url": "https://www.pinming.cn",
-            "desc": "市政工程量计算软件",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "鲁班软件",
-            "url": "http://lubanshop.com",
-            "desc": "成本测算、造价工具",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "天正建筑",
-            "url": "http://www.tangent.com.cn",
-            "desc": "建筑CAD插件标杆",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "测量空间",
-            "url": "http://www.cehui8.com",
-            "desc": "全站仪、GPS测量教程",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "钢筋翻样计算器",
-            "url": "https://www.gangjinjisuanqi.com",
-            "desc": "钢筋下料长度计算",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.488Z"
-          },
-          {
-            "name": "混凝土配合比计算",
-            "url": "https://www.hunningtupeibi.com",
-            "desc": "砼配合比在线计算",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "工程计算器",
-            "url": "https://www.gongchengjisuanqi.com",
-            "desc": "市政建筑专业计算",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "水准仪计算工具",
-            "url": "https://www.shuizhunyi.com",
-            "desc": "水准测量自动计算",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "全站仪坐标计算",
-            "url": "https://www.quanzhanyi.com",
-            "desc": "坐标正反算工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "CAD快速看图",
-            "url": "https://cad.glodon.com",
-            "desc": "广联达CAD看图",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "迅捷CAD转换器",
-            "url": "https://www.xunjiecad.com",
-            "desc": "CAD版本转换",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "AutoCAD Web",
-            "url": "https://web.autocad.com",
-            "desc": "在线CAD编辑",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "工程量清单计算",
-            "url": "https://www.gclqd.com",
-            "desc": "清单计价助手",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "造价指标网",
-            "url": "https://www.zaojiazhibiao.com",
-            "desc": "工程指标查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "建材价格行情",
-            "url": "https://www.zaojia.com",
-            "desc": "建材价格查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "我的钢铁网",
-            "url": "https://www.mysteel.com",
-            "desc": "钢材每日报价",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "水泥网行情",
-            "url": "https://www.ccement.com",
-            "desc": "水泥价格指数",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "砂石骨料网",
-            "url": "https://www.chinaggxl.com",
-            "desc": "砂石价格行情",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "工程造价信息网",
-            "url": "https://www.zaojia.net.cn",
-            "desc": "定额信息查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "标准图集网",
-            "url": "https://www.tuji8.com",
-            "desc": "国标图集下载",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "建标库",
-            "url": "https://www.jianbiaoku.com",
-            "desc": "规范标准查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "工标网",
-            "url": "http://www.csres.com",
-            "desc": "工程标准查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "测量坐标计算",
-            "url": "https://www.cehui8.com",
-            "desc": "测量计算工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "坡度计算器",
-            "url": "https://www.podujisuanqi.com",
-            "desc": "道路坡度计算",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "土方量计算器",
-            "url": "https://www.tufangliang.com",
-            "desc": "方格网土方计算",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "市政管道计算",
-            "url": "https://www.guandaojisuan.com",
-            "desc": "管径坡度计算",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "脚手架计算",
-            "url": "https://www.shoujiaojia.com",
-            "desc": "脚手架安全计算",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          },
-          {
-            "name": "模板支架计算",
-            "url": "https://www.mobanzhijia.com",
-            "desc": "高支模计算工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:23:23.489Z"
-          }
-        ]
-      },
-      {
-        "id": 20006,
-        "title": "行业资讯",
-        "icon": "",
-        "createdAt": "2026-04-17T06:07:44.557Z",
-        "nav": [
-          {
-            "name": "中国建筑新闻网",
-            "url": "http://www.archdaily.cn",
-            "desc": "全球建筑行业资讯",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "筑龙网",
-            "url": "https://www.zhulong.com",
-            "desc": "工程人交流社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "土木在线",
-            "url": "https://www.co188.com",
-            "desc": "土木工程专业论坛",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "天工网",
-            "url": "https://www.tgnet.cn",
-            "desc": "工程资料、人脉资源",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "建筑时报",
-            "url": "http://www.jzsbs.com",
-            "desc": "建筑行业权威媒体",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          },
-          {
-            "name": "中国市政工程协会",
-            "url": "http://www.cmea.org.cn",
-            "desc": "市政行业官方协会",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:07:44.557Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "🏠 我的工作台",
     "icon": "",
     "nav": [
@@ -488,7 +12,7 @@
           {
             "createdAt": "2024-05-29T21:35:42.268Z",
             "title": "公司平台",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -811,8 +335,7 @@
                   "公司平台"
                 ]
               }
-            ],
-            "id": 10002
+            ]
           },
           {
             "createdAt": "2024-05-29T21:37:55.054Z",
@@ -1912,13 +1435,12 @@
                   "AI&软件"
                 ]
               }
-            ],
-            "id": 10003
+            ]
           },
           {
             "createdAt": "2024-07-18T08:17:54.419Z",
             "title": "学习网站",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -2284,13 +1806,12 @@
                   "学习网站"
                 ]
               }
-            ],
-            "id": 10004
+            ]
           },
           {
             "createdAt": "2024-05-29T21:38:13.663Z",
             "title": "政府网站",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -2405,13 +1926,12 @@
                   "政府网站"
                 ]
               }
-            ],
-            "id": 10005
+            ]
           },
           {
             "createdAt": "2024-05-29T21:37:28.248Z",
             "title": "自媒体",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -2494,13 +2014,12 @@
                   "自媒体"
                 ]
               }
-            ],
-            "id": 10006
+            ]
           },
           {
             "createdAt": "2024-05-29T21:37:13.503Z",
             "title": "金融投资",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -2631,13 +2150,12 @@
                   "金融投资"
                 ]
               }
-            ],
-            "id": 10007
+            ]
           },
           {
             "createdAt": "2024-05-29T21:36:29.459Z",
             "title": "标准查询",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -2880,11 +2398,9 @@
                   "标准查询"
                 ]
               }
-            ],
-            "id": 10008
+            ]
           }
-        ],
-        "id": 10001
+        ]
       },
       {
         "createdAt": "2024-06-05T11:17:39.229Z",
@@ -3203,13 +2719,12 @@
                   "AI资源导航"
                 ]
               }
-            ],
-            "id": 10010
+            ]
           },
           {
             "createdAt": "2025-04-25T02:11:06.129Z",
             "title": "AI相关软件",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3228,13 +2743,12 @@
                   "AI相关软件"
                 ]
               }
-            ],
-            "id": 10011
+            ]
           },
           {
             "createdAt": "2025-04-25T00:49:23.879Z",
             "title": "浏览器AI插件",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3253,13 +2767,12 @@
                   "浏览器AI插件"
                 ]
               }
-            ],
-            "id": 10012
+            ]
           },
           {
             "createdAt": "2025-04-25T00:45:53.401Z",
             "title": "翻译神器",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3280,13 +2793,12 @@
                   "翻译神器"
                 ]
               }
-            ],
-            "id": 10013
+            ]
           },
           {
             "createdAt": "2024-06-06T02:22:57.210Z",
             "title": "影刀",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3321,13 +2833,12 @@
                   "影刀"
                 ]
               }
-            ],
-            "id": 10014
+            ]
           },
           {
             "createdAt": "2024-06-05T12:47:22.364Z",
             "title": "suno歌词",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3346,13 +2857,12 @@
                   "suno歌词"
                 ]
               }
-            ],
-            "id": 10015
+            ]
           },
           {
             "createdAt": "2024-06-05T12:40:49.019Z",
             "title": "绘本绘制",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3371,13 +2881,12 @@
                   "绘本绘制"
                 ]
               }
-            ],
-            "id": 10016
+            ]
           },
           {
             "createdAt": "2024-06-05T12:13:07.398Z",
             "title": "抖音视频脚本",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3444,13 +2953,12 @@
                   "抖音视频脚本"
                 ]
               }
-            ],
-            "id": 10017
+            ]
           },
           {
             "createdAt": "2024-06-05T11:55:09.454Z",
             "title": "公众号",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3485,8 +2993,7 @@
                   "公众号"
                 ]
               }
-            ],
-            "id": 10018
+            ]
           },
           {
             "createdAt": "2024-06-05T11:18:05.794Z",
@@ -3590,11 +3097,9 @@
                   "小红书内容创作"
                 ]
               }
-            ],
-            "id": 10019
+            ]
           }
-        ],
-        "id": 10009
+        ]
       },
       {
         "createdAt": "2025-05-07T06:10:58.958Z",
@@ -3605,7 +3110,7 @@
           {
             "createdAt": "2025-08-15T09:14:28.091Z",
             "title": "文字排版",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3624,13 +3129,12 @@
                   "文字排版"
                 ]
               }
-            ],
-            "id": 10021
+            ]
           },
           {
             "createdAt": "2025-08-14T12:37:51.293Z",
             "title": "图片生成",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3665,13 +3169,12 @@
                   "图片生成"
                 ]
               }
-            ],
-            "id": 10022
+            ]
           },
           {
             "createdAt": "2025-05-17T08:19:24.103Z",
             "title": "搞钱灵感",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3706,13 +3209,12 @@
                   "搞钱灵感"
                 ]
               }
-            ],
-            "id": 10023
+            ]
           },
           {
             "createdAt": "2025-05-10T12:53:55.443Z",
             "title": "视频制作",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3875,13 +3377,12 @@
                   "视频制作"
                 ]
               }
-            ],
-            "id": 10024
+            ]
           },
           {
             "createdAt": "2025-05-08T03:02:26.939Z",
             "title": "视频转文稿",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -3948,13 +3449,12 @@
                   "视频转文稿"
                 ]
               }
-            ],
-            "id": 10025
+            ]
           },
           {
             "createdAt": "2025-05-07T07:42:40.991Z",
             "title": "头条社会热点",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -4005,11 +3505,9 @@
                   "头条社会热点"
                 ]
               }
-            ],
-            "id": 10026
+            ]
           }
-        ],
-        "id": 10020
+        ]
       },
       {
         "createdAt": "2025-04-25T07:48:34.460Z",
@@ -4020,7 +3518,7 @@
           {
             "createdAt": "2025-04-25T08:31:14.689Z",
             "title": "常用网站",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -4183,13 +3681,12 @@
                   "常用网站"
                 ]
               }
-            ],
-            "id": 10028
+            ]
           },
           {
             "createdAt": "2025-04-25T07:49:46.508Z",
             "title": "常用软件",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -4256,13 +3753,12 @@
                   "常用软件"
                 ]
               }
-            ],
-            "id": 10029
+            ]
           },
           {
             "createdAt": "2025-04-25T07:49:55.196Z",
             "title": "网盘搜索",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -4281,13 +3777,12 @@
                   "网盘搜索"
                 ]
               }
-            ],
-            "id": 10030
+            ]
           },
           {
             "createdAt": "2025-04-25T08:22:38.106Z",
             "title": "导航网站",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -4450,22 +3945,20 @@
                   "导航网站"
                 ]
               }
-            ],
-            "id": 10031
+            ]
           }
-        ],
-        "id": 10027
+        ]
       },
       {
         "createdAt": "2025-02-22T23:52:15.531Z",
         "title": "轩总使用",
-        "icon": "",
+        "icon": null,
         "ownVisible": null,
         "nav": [
           {
             "createdAt": "2025-11-13T12:01:02.603Z",
             "title": "个人导航",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -4516,13 +4009,12 @@
                   "个人导航"
                 ]
               }
-            ],
-            "id": 10033
+            ]
           },
           {
             "createdAt": "2025-04-25T08:35:56.011Z",
             "title": "成长资源",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -4653,13 +4145,12 @@
                   "成长资源"
                 ]
               }
-            ],
-            "id": 10034
+            ]
           },
           {
             "createdAt": "2025-02-22T23:52:37.331Z",
             "title": "学校有关",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -4710,77 +4201,15 @@
                   "学校有关"
                 ]
               }
-            ],
-            "id": 10035
+            ]
           }
-        ],
-        "id": 10032
+        ]
       },
       {
         "title": "📑 精选工具",
-        "nav": [
-          {
-            "name": "Everything 搜索",
-            "url": "https://www.voidtools.com",
-            "desc": "Windows本地文件秒搜神器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "Listary 启动器",
-            "url": "https://www.listary.com",
-            "desc": "快速启动、文件搜索",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "Snipaste 截图",
-            "url": "https://www.snipaste.com",
-            "desc": "最好用的截图贴图工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "Quicker 自动化",
-            "url": "https://getquicker.net",
-            "desc": "鼠标右键快捷工具箱",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "Ditto 剪贴板",
-            "url": "https://ditto-cp.sourceforge.io",
-            "desc": "增强型剪贴板历史",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "uTools 工具箱",
-            "url": "https://u.tools",
-            "desc": "新一代效率启动器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "PotPlayer 播放器",
-            "url": "https://potplayer.daum.net",
-            "desc": "全能视频播放器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "7-Zip 解压",
-            "url": "https://www.7-zip.org",
-            "desc": "免费高压缩比工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          }
-        ],
-        "id": 10036,
-        "icon": ""
+        "nav": []
       }
-    ],
-    "id": 10000
+    ]
   },
   {
     "title": "🤖 AI 实践舱",
@@ -4997,9 +4426,7 @@
               "影刀"
             ]
           }
-        ],
-        "id": 10038,
-        "icon": ""
+        ]
       },
       {
         "title": "🎨 AI 画图",
@@ -5036,9 +4463,7 @@
             ],
             "ownVisible": false
           }
-        ],
-        "id": 10039,
-        "icon": ""
+        ]
       },
       {
         "title": "📝 AI 写作",
@@ -5301,9 +4726,7 @@
             ],
             "ownVisible": false
           }
-        ],
-        "id": 10040,
-        "icon": ""
+        ]
       },
       {
         "title": "⚡ AI 效率工具",
@@ -5785,75 +5208,13 @@
             "url": "https://mmh1.top/",
             "urls": {}
           }
-        ],
-        "id": 10041,
-        "icon": ""
+        ]
       },
       {
         "title": "🏗️ 垂直领域",
-        "nav": [
-          {
-            "name": "法律 AI - 幂律",
-            "url": "https://www.lawyee.ai",
-            "desc": "法律文书智能生成",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "医学 AI - 春雨医生",
-            "url": "https://ai.chunyuyisheng.com",
-            "desc": "AI 辅助问诊咨询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "教育 AI - 可汗学院",
-            "url": "https://www.khanacademy.org/koans",
-            "desc": "AI 个性化辅导",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "设计 AI - 即时设计",
-            "url": "https://js.design/ai",
-            "desc": "AI 驱动 UI 设计",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "视频 AI - Runway",
-            "url": "https://runwayml.com",
-            "desc": "AI 视频生成剪辑",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "音频 AI - ElevenLabs",
-            "url": "https://elevenlabs.io",
-            "desc": "AI 语音克隆合成",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "代码 AI - CodeLlama",
-            "url": "https://ai.meta.com",
-            "desc": "Meta 开源代码模型",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "写作 AI - 秘塔写作猫",
-            "url": "https://xiezuocat.com",
-            "desc": "AI 校对改写润色",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          }
-        ],
-        "id": 10042,
-        "icon": ""
+        "nav": []
       }
-    ],
-    "id": 10037
+    ]
   },
   {
     "title": "💼 一人公司",
@@ -6043,9 +5404,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10046,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "常用插件",
@@ -6860,9 +6219,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10047,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "国际化多语言方案",
@@ -6905,9 +6262,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10048,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "动画",
@@ -6997,9 +6352,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10049,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "加盐",
@@ -7089,9 +6442,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10050,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "文件插件相关",
@@ -7215,9 +6566,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10051,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "图片预览",
@@ -7258,9 +6607,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10052,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "音频/视频",
@@ -7323,9 +6670,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10053,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "图形",
@@ -7401,9 +6746,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10054,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "UI组件库",
@@ -7430,9 +6773,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10055,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "原生APP交互webview桥接",
@@ -7469,9 +6810,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10056,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "参数验证",
@@ -7540,9 +6879,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10057,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "数据库",
@@ -7565,9 +6902,7 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10058,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "步骤引导",
@@ -7627,14 +6962,11 @@
                   }
                 ],
                 "collapsed": false,
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10059,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
             "collapsed": false,
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10045
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "React",
@@ -7721,9 +7053,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10061,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "Redux相关",
@@ -7796,9 +7126,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10062,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "React Native相关",
@@ -7881,9 +7209,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10063,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "PC端UI组件库",
@@ -8072,9 +7398,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10064,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "移动端UI组件库",
@@ -8100,9 +7424,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10065,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "其他组件库",
@@ -8460,9 +7782,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10066,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "拖拽组件",
@@ -8534,9 +7854,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10067,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "开箱即用",
@@ -8561,9 +7879,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10068,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "单元测试",
@@ -8603,9 +7919,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10069,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "umi/dva",
@@ -8684,9 +7998,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10070,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "知识",
@@ -8739,9 +8051,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10071,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "其他",
@@ -8833,13 +8143,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10072,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10060
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "Vue.js",
@@ -9042,9 +8349,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10074,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "PC端UI组件库",
@@ -9222,9 +8527,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10075,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "移动端UI组件库",
@@ -9345,9 +8648,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10076,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "其他组件/插件",
@@ -9419,9 +8720,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10077,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "开箱即用",
@@ -9444,9 +8743,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10078,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "nuxt服务端渲染框架",
@@ -9488,13 +8785,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10079,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10073
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "Angular",
@@ -9559,9 +8853,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10081,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "PC端UI组件库",
@@ -9661,9 +8953,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10082,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "移动端UI组件库",
@@ -9686,13 +8976,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10083,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10080
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "微信开发",
@@ -9738,9 +9025,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10085,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "小程序框架",
@@ -9835,9 +9120,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10086,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "小程序组件库/插件",
@@ -9971,9 +9254,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10087,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "微信公众号开发辅助工具",
@@ -10024,9 +9305,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10088,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "资源",
@@ -10062,9 +9341,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10089,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "其他",
@@ -10117,13 +9394,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10090,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10084
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "工具",
@@ -10339,9 +9613,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10092,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "JavaScript",
@@ -10449,8 +9721,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10093
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "CDN",
@@ -10522,9 +9793,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10094,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "其他",
@@ -10708,14 +9977,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10095,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10091,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "CSS",
@@ -10921,9 +10186,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10097,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "图标库",
@@ -11016,9 +10279,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10098,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "资源",
@@ -11056,13 +10317,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10099,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10096
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "TypeScript",
@@ -11173,13 +10431,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10101,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10100
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "参考资料",
@@ -11269,9 +10524,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10103,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "文档",
@@ -11495,13 +10748,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10104,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10102
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "生态系统",
@@ -11549,9 +10799,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10106,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "模块",
@@ -11602,9 +10850,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10107,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "其他",
@@ -11660,9 +10906,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10108,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "CMS",
@@ -11704,9 +10948,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10109,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "资料",
@@ -11727,13 +10969,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10110,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10105
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "依赖包",
@@ -11835,9 +11074,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10112,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "单元测试",
@@ -12021,9 +11258,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10113,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "数据库",
@@ -12182,9 +11417,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10114,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "图形相关",
@@ -12265,9 +11498,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10115,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "代理",
@@ -12303,9 +11534,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10116,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "AST辅助工具",
@@ -12343,9 +11572,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10117,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "文件相关",
@@ -12420,9 +11647,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10118,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "微信开发",
@@ -12490,9 +11715,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10119,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "CLI",
@@ -12775,9 +11998,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10120,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "模板引擎",
@@ -12835,9 +12056,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10121,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "其他",
@@ -13140,13 +12359,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10122,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10111
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "跨平台框架",
@@ -13278,8 +12494,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10124
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "nw.js",
@@ -13337,14 +12552,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10125,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10123,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "WEB框架",
@@ -13389,9 +12600,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10127,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "egg.js",
@@ -13449,9 +12658,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10128,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "Express/Koa",
@@ -13493,14 +12700,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10129,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10126,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "辅助工具",
@@ -13555,9 +12758,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10131,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "node版本管理",
@@ -13623,9 +12824,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10132,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "日志管理",
@@ -13663,9 +12862,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10133,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "集成工具",
@@ -13722,9 +12919,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10134,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "代码压缩",
@@ -13748,9 +12943,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10135,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "其他",
@@ -13910,13 +13103,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10136,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10130
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "Deno",
@@ -13960,8 +13150,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10138
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "工具",
@@ -13986,18 +13175,15 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10139
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10137,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "createdAt": "2025-04-25T08:50:36.874Z",
             "title": "学习资源",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -14059,7 +13245,7 @@
               {
                 "createdAt": "2025-04-25T08:50:57.588Z",
                 "title": "学习网站",
-                "icon": "",
+                "icon": null,
                 "ownVisible": null,
                 "nav": [
                   {
@@ -14142,11 +13328,9 @@
                       "学习网站"
                     ]
                   }
-                ],
-                "id": 10141
+                ]
               }
-            ],
-            "id": 10140
+            ]
           },
           {
             "title": "生态系统",
@@ -14188,9 +13372,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10143,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "工具",
@@ -14211,13 +13393,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10144,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10142
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "依赖包",
@@ -14314,9 +13493,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10146,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "图像",
@@ -14339,9 +13516,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10147,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "运算",
@@ -14364,9 +13539,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10148,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "数据分析",
@@ -14388,9 +13561,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10149,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "CLI",
@@ -14488,14 +13659,12 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10150,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "createdAt": "2021-01-24T03:58:47.475Z",
                 "title": "其他",
-                "icon": "",
+                "icon": null,
                 "nav": [
                   {
                     "createdAt": "2021-01-24T03:59:58.542Z",
@@ -14513,12 +13682,10 @@
                     ],
                     "ownVisible": false
                   }
-                ],
-                "id": 10151
+                ]
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10145
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "框架",
@@ -14564,13 +13731,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10153,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10152
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "参考资料",
@@ -14596,8 +13760,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10155
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "文档资料",
@@ -14700,17 +13863,12 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10156
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10154,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           }
-        ],
-        "id": 10044,
-        "icon": ""
+        ]
       },
       {
         "title": "🌍 远程工作",
@@ -14875,9 +14033,7 @@
             ],
             "ownVisible": false
           }
-        ],
-        "id": 10157,
-        "icon": ""
+        ]
       },
       {
         "title": "📈 产品运营",
@@ -15017,84 +14173,18 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10160,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10159,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.424Z"
           }
-        ],
-        "id": 10158,
-        "icon": ""
+        ]
       },
       {
         "title": "🧠 商业思维",
-        "nav": [
-          {
-            "name": "李永乐老师",
-            "url": "https://www.youtube.com/@李永乐老师",
-            "desc": "科普经济学思维",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "薛兆丰经济学",
-            "url": "https://book.douban.com/subject/30171333",
-            "desc": "经济学讲义经典",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "穷查理宝典",
-            "url": "https://book.douban.com/subject/5346111",
-            "desc": "查理芒格智慧",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "富爸爸穷爸爸",
-            "url": "https://book.douban.com/subject/1033778",
-            "desc": "财商启蒙必读",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "纳瓦尔宝典",
-            "url": "https://book.douban.com/subject/35876115",
-            "desc": "财富与幸福指南",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "香帅的金融江湖",
-            "url": "https://space.bilibili.com/599152803",
-            "desc": "北大金融学教授",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "刘润商学院",
-            "url": "https://runliubusiness.com",
-            "desc": "商业思维日日更",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "得到-商学院",
-            "url": "https://www.dedao.cn",
-            "desc": "系统商业课程",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          }
-        ],
-        "id": 10161,
-        "icon": ""
+        "nav": []
       }
-    ],
-    "id": 10043
+    ]
   },
   {
     "title": "📈 投资研究室",
@@ -15501,9 +14591,7 @@
             ],
             "ownVisible": false
           }
-        ],
-        "id": 10163,
-        "icon": ""
+        ]
       },
       {
         "title": "💹 股票基金",
@@ -15540,9 +14628,7 @@
               "金融投资"
             ]
           }
-        ],
-        "id": 10164,
-        "icon": ""
+        ]
       },
       {
         "title": "📊 研报数据",
@@ -15878,75 +14964,13 @@
             ],
             "ownVisible": false
           }
-        ],
-        "id": 10165,
-        "icon": ""
+        ]
       },
       {
         "title": "💡 投资思维",
-        "nav": [
-          {
-            "name": "但斌博客",
-            "url": "https://weibo.com/danbin",
-            "desc": "东方港湾价值投资",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "李录演讲",
-            "url": "https://book.douban.com/subject/35048422",
-            "desc": "文明现代化价值投资",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "唐朝书房",
-            "url": "https://github.com/ly5822716/TangStudyNotes",
-            "desc": "唐书房读书笔记",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "段永平投资问答",
-            "url": "https://github.com/taoboyong/DuanTalks",
-            "desc": "大道投资哲学",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "聪明的投资者",
-            "url": "https://book.douban.com/subject/5243775",
-            "desc": "格雷厄姆经典",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "证券分析",
-            "url": "https://book.douban.com/subject/24286066",
-            "desc": "投资者圣经",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "漫步华尔街",
-            "url": "https://book.douban.com/subject/3012153",
-            "desc": "指数投资理论",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "黑天鹅",
-            "url": "https://book.douban.com/subject/33414480",
-            "desc": "塔勒布不确定性",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          }
-        ],
-        "id": 10166,
-        "icon": ""
+        "nav": []
       }
-    ],
-    "id": 10162
+    ]
   },
   {
     "title": "👨‍👩‍👧 家庭教育",
@@ -16025,9 +15049,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10169,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.424Z"
           },
           {
             "title": "Git",
@@ -16113,9 +15135,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10170,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.424Z"
           },
           {
             "title": "服务器",
@@ -16159,9 +15179,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10171,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.424Z"
           },
           {
             "title": "数据库",
@@ -16203,9 +15221,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10172,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.424Z"
           },
           {
             "title": "书籍",
@@ -16274,9 +15290,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10173,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.424Z"
           },
           {
             "title": "其他文档",
@@ -16495,76 +15509,13 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10174,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.424Z"
           }
-        ],
-        "id": 10168,
-        "icon": ""
+        ]
       },
       {
         "title": "🧠 学习方法",
-        "nav": [
-          {
-            "name": "费曼学习法",
-            "url": "https://book.douban.com/subject/35127068",
-            "desc": "世界顶级学习法",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "刻意练习",
-            "url": "https://book.douban.com/subject/26895993",
-            "desc": "如何成为天才",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "学习之道",
-            "url": "https://book.douban.com/subject/26948865",
-            "desc": "芭芭拉学习科学",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "认知天性",
-            "url": "https://book.douban.com/subject/30370272",
-            "desc": "让学习轻而易举",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "番茄工作法",
-            "url": "https://book.douban.com/subject/33428856",
-            "desc": "时间管理入门",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "搞定GTD",
-            "url": "https://book.douban.com/subject/4849382",
-            "desc": "无压工作艺术",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "思维导图",
-            "url": "https://book.douban.com/subject/35330062",
-            "desc": "东尼博赞经典",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "卡片笔记写作法",
-            "url": "https://book.douban.com/subject/35503571",
-            "desc": "卢曼智慧结晶",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          }
-        ],
-        "id": 10175,
-        "icon": ""
+        "nav": []
       },
       {
         "title": "🎨 素质教育",
@@ -16784,9 +15735,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10178,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               },
               {
                 "title": "图标",
@@ -16889,9 +15838,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10179,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               },
               {
                 "title": "工具",
@@ -16960,9 +15907,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10180,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               },
               {
                 "title": "配色",
@@ -16984,84 +15929,18 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10181,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10177,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.424Z"
           }
-        ],
-        "id": 10176,
-        "icon": ""
+        ]
       },
       {
         "title": "📖 教育理念",
-        "nav": [
-          {
-            "name": "正面管教",
-            "url": "https://book.douban.com/subject/6875539",
-            "desc": "不惩罚不骄纵",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "PET父母效能训练",
-            "url": "https://book.douban.com/subject/6027916",
-            "desc": "亲子沟通圣经",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "如何说孩子才会听",
-            "url": "https://book.douban.com/subject/6950595",
-            "desc": "沟通技巧大全",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "蒙台梭利教育",
-            "url": "https://book.douban.com/subject/1278789",
-            "desc": "蒙氏教育经典",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "卢梭爱弥儿",
-            "url": "https://book.douban.com/subject/1008217",
-            "desc": "教育哲学经典",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "洛克菲勒家书",
-            "url": "https://book.douban.com/subject/24848058",
-            "desc": "留给儿子的信",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "傅雷家书",
-            "url": "https://book.douban.com/subject/1021332",
-            "desc": "中国式父爱",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          },
-          {
-            "name": "好妈妈胜过好老师",
-            "url": "https://book.douban.com/subject/3395133",
-            "desc": "尹建莉老师",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:10:15.140Z"
-          }
-        ],
-        "id": 10182,
-        "icon": ""
+        "nav": []
       }
-    ],
-    "id": 10167
+    ]
   },
   {
     "title": "🛠️ 效率工具箱",
@@ -17070,13 +15949,13 @@
       {
         "createdAt": "2026-01-17T06:48:15.998Z",
         "title": "YouTuBe下载",
-        "icon": "",
+        "icon": null,
         "ownVisible": null,
         "nav": [
           {
             "createdAt": "2026-01-17T06:48:38.625Z",
             "title": "YouTube下载",
-            "icon": "",
+            "icon": null,
             "ownVisible": null,
             "nav": [
               {
@@ -17111,11 +15990,9 @@
                   "YouTube下载"
                 ]
               }
-            ],
-            "id": 10185
+            ]
           }
-        ],
-        "id": 10184
+        ]
       },
       {
         "title": "开发相关",
@@ -17738,9 +16615,7 @@
               }
             ],
             "collapsed": false,
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10187,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "接口/开发文档管理",
@@ -17919,9 +16794,7 @@
               }
             ],
             "collapsed": false,
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10188,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "内网穿透/代理",
@@ -17994,9 +16867,7 @@
               }
             ],
             "collapsed": false,
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10189,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "编码/解码",
@@ -18051,9 +16922,7 @@
               }
             ],
             "collapsed": false,
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10190,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "免费公开API",
@@ -18091,15 +16960,11 @@
               }
             ],
             "collapsed": false,
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10191,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           }
         ],
         "collapsed": false,
-        "createdAt": "2021-01-23T01:32:06.423Z",
-        "id": 10186,
-        "icon": ""
+        "createdAt": "2021-01-23T01:32:06.423Z"
       },
       {
         "title": "设计相关",
@@ -18363,14 +17228,10 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10193,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           }
         ],
-        "createdAt": "2021-01-23T01:32:06.423Z",
-        "id": 10192,
-        "icon": ""
+        "createdAt": "2021-01-23T01:32:06.423Z"
       },
       {
         "title": "GUI软件",
@@ -18589,9 +17450,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10195,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "虚拟机",
@@ -18645,9 +17504,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10196,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "数据库",
@@ -18753,9 +17610,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10197,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "远程控制",
@@ -18793,9 +17648,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10198,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "飞机场",
@@ -18833,14 +17686,10 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10199,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           }
         ],
-        "createdAt": "2021-01-23T01:32:06.423Z",
-        "id": 10194,
-        "icon": ""
+        "createdAt": "2021-01-23T01:32:06.423Z"
       },
       {
         "title": "影视/音乐",
@@ -18976,9 +17825,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10201,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "音乐",
@@ -18999,14 +17846,10 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10202,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           }
         ],
-        "createdAt": "2021-01-23T01:32:06.423Z",
-        "id": 10200,
-        "icon": ""
+        "createdAt": "2021-01-23T01:32:06.423Z"
       },
       {
         "title": "招聘/求职",
@@ -19063,9 +17906,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10204,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "其他",
@@ -19120,14 +17961,10 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10205,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           }
         ],
-        "createdAt": "2021-01-23T01:32:06.423Z",
-        "id": 10203,
-        "icon": ""
+        "createdAt": "2021-01-23T01:32:06.423Z"
       },
       {
         "title": "其他",
@@ -19168,9 +18005,7 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10207,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           },
           {
             "title": "辅助工具",
@@ -19560,17 +18395,12 @@
                 "ownVisible": false
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10208,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           }
         ],
-        "createdAt": "2021-01-23T01:32:06.423Z",
-        "id": 10206,
-        "icon": ""
+        "createdAt": "2021-01-23T01:32:06.423Z"
       }
-    ],
-    "id": 10183
+    ]
   },
   {
     "title": "📚 知识文库",
@@ -19666,9 +18496,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10212,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               },
               {
                 "title": "个人博客",
@@ -19738,18 +18566,12 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10213,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10211,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.424Z"
           }
-        ],
-        "id": 10210,
-        "icon": ""
+        ]
       },
       {
         "title": "🎓 在线课程",
@@ -19913,9 +18735,7 @@
                 "createdAt": "2021-01-23T01:32:06.424Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10215,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.424Z"
           },
           {
             "title": "面试刷题",
@@ -20008,18 +18828,12 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10217,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10216,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.424Z"
           }
-        ],
-        "id": 10214,
-        "icon": ""
+        ]
       },
       {
         "title": "🌐 社区站点",
@@ -20240,9 +19054,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10220,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "其他",
@@ -20376,9 +19188,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10221,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               },
               {
                 "title": "代码托管",
@@ -20448,18 +19258,12 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.423Z",
-                "id": 10222,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.423Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.423Z",
-            "id": 10219,
-            "icon": ""
+            "createdAt": "2021-01-23T01:32:06.423Z"
           }
-        ],
-        "id": 10218,
-        "icon": ""
+        ]
       },
       {
         "title": "🔒 网络安全",
@@ -20597,9 +19401,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10225,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               },
               {
                 "title": "CTF",
@@ -20651,9 +19453,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10226,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               },
               {
                 "title": "辅助工具",
@@ -20862,9 +19662,7 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10227,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               },
               {
                 "title": "知识/测试",
@@ -20921,3512 +19719,10 @@
                     "ownVisible": false
                   }
                 ],
-                "createdAt": "2021-01-23T01:32:06.424Z",
-                "id": 10228,
-                "icon": ""
+                "createdAt": "2021-01-23T01:32:06.424Z"
               }
             ],
-            "createdAt": "2021-01-23T01:32:06.424Z",
-            "id": 10224,
-            "icon": ""
-          }
-        ],
-        "id": 10223,
-        "icon": ""
-      }
-    ],
-    "id": 10209
-  },
-  {
-    "id": 30000,
-    "title": "🖥️ 软件资源宝库",
-    "icon": "",
-    "createdAt": "2026-04-17T06:18:28.098Z",
-    "nav": [
-      {
-        "id": 30001,
-        "title": "📦 纯净软件下载",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "联想应用商店",
-            "url": "https://lestore.lenovo.com",
-            "desc": "人工审核，绝对无捆绑",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "腾讯软件中心",
-            "url": "https://pc.qq.com",
-            "desc": "大厂官方纯净下载",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "微软应用商店",
-            "url": "https://apps.microsoft.com",
-            "desc": "UWP应用绝对纯净",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "360软件宝库",
-            "url": "https://baoku.360.cn",
-            "desc": "选普通下载即可",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Ninite",
-            "url": "https://ninite.com",
-            "desc": "批量安装纯净软件",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "果核剥壳",
-            "url": "https://www.ghxi.com",
-            "desc": "绿色去广告修改版",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "PortableApps",
-            "url": "https://portableapps.com",
-            "desc": "便携软件集合",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Softpedia",
-            "url": "https://www.softpedia.com",
-            "desc": "国外软件权威下载",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "中关村在线下载",
-            "url": "https://xiazai.zol.com.cn",
-            "desc": "老牌IT门户下载",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "华军软件园",
-            "url": "https://www.onlinedown.net",
-            "desc": "历史版本齐全",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "MajorGeeks",
-            "url": "https://www.majorgeeks.com",
-            "desc": "国外精品工具",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "异次元软件世界",
-            "url": "https://www.iplaysoft.com",
-            "desc": "精品软件推荐",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30002,
-        "title": "🏗️ 工程软件合集",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "FreeCAD",
-            "url": "https://www.freecad.org",
-            "desc": "开源3D参数化建模",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "LibreCAD",
-            "url": "https://librecad.org",
-            "desc": "开源2D CAD替代AutoCAD",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "QCAD",
-            "url": "https://www.qcad.org",
-            "desc": "易用的开源2D CAD",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Blender BIM",
-            "url": "https://blenderbim.org",
-            "desc": "开源BIM替代Revit",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "BRL-CAD",
-            "url": "https://brlcad.org",
-            "desc": "军工级开源CAD",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "OpenSCAD",
-            "url": "https://openscad.org",
-            "desc": "代码化3D建模",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "广联达服务新干线",
-            "url": "https://www.fwxgx.com",
-            "desc": "造价软件社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "品茗软件",
-            "url": "https://www.pinming.cn",
-            "desc": "BIM算量软件",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "鲁班软件",
-            "url": "http://lubanshop.com",
-            "desc": "成本测算工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "天正软件",
-            "url": "http://www.tangent.com.cn",
-            "desc": "建筑CAD插件",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "AutoCAD官方",
-            "url": "https://www.autodesk.com.cn",
-            "desc": "Autodesk官方",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Civil 3D",
-            "url": "https://www.autodesk.com.cn/industry/civil-engineering",
-            "desc": "市政BIM软件",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30003,
-        "title": "💻 电脑常用软件",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "Everything",
-            "url": "https://www.voidtools.com",
-            "desc": "文件秒搜神器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Listary",
-            "url": "https://www.listary.com",
-            "desc": "快速启动器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Snipaste",
-            "url": "https://www.snipaste.com",
-            "desc": "截图贴图工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Quicker",
-            "url": "https://getquicker.net",
-            "desc": "右键快捷工具箱",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Ditto",
-            "url": "https://ditto-cp.sourceforge.io",
-            "desc": "剪贴板增强",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "uTools",
-            "url": "https://u.tools",
-            "desc": "新一代效率启动器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "PotPlayer",
-            "url": "https://potplayer.daum.net",
-            "desc": "全能视频播放器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "7-Zip",
-            "url": "https://www.7-zip.org",
-            "desc": "免费高压缩解压",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Notepad++",
-            "url": "https://notepad-plus-plus.org",
-            "desc": "高级文本编辑器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "ShareX",
-            "url": "https://getsharex.com",
-            "desc": "截图录屏分享",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Bandizip",
-            "url": "https://www.bandisoft.com/bandizip",
-            "desc": "免费压缩软件",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Honeyview",
-            "url": "https://www.bandisoft.com/honeyview",
-            "desc": "快速看图软件",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "CCleaner",
-            "url": "https://www.ccleaner.com",
-            "desc": "系统清理工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Geek Uninstaller",
-            "url": "https://geekuninstaller.com",
-            "desc": "彻底卸载软件",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Revo Uninstaller",
-            "url": "https://www.revouninstaller.com",
-            "desc": "专业卸载工具",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Speccy",
-            "url": "https://www.ccleaner.com/speccy",
-            "desc": "硬件信息查看",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "CrystalDiskInfo",
-            "url": "https://crystalmark.info",
-            "desc": "硬盘健康检测",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30004,
-        "title": "🌐 浏览器",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "Google Chrome",
-            "url": "https://www.google.com/chrome",
-            "desc": "最流行浏览器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Microsoft Edge",
-            "url": "https://www.microsoft.com/edge",
-            "desc": "微软新一代浏览器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Firefox",
-            "url": "https://www.mozilla.org/firefox",
-            "desc": "火狐开源浏览器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Brave",
-            "url": "https://brave.com",
-            "desc": "隐私防护浏览器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Vivaldi",
-            "url": "https://vivaldi.com",
-            "desc": "高度自定义浏览器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Opera",
-            "url": "https://www.opera.com",
-            "desc": "挪威经典浏览器",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Thorium",
-            "url": "https://thorium.rocks",
-            "desc": "最快Chromium分支",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "CentBrowser",
-            "url": "http://www.centbrowser.com",
-            "desc": "百分浏览器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30005,
-        "title": "🤖 安卓应用",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "酷安",
-            "url": "https://www.coolapk.com",
-            "desc": "国内精品应用市场",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "应用宝",
-            "url": "https://sj.qq.com",
-            "desc": "腾讯官方应用市场",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "华为应用市场",
-            "url": "https://appgallery.huawei.com",
-            "desc": "华为官方商店",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "小米应用商店",
-            "url": "https://app.mi.com",
-            "desc": "小米官方商店",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "ApkMirror",
-            "url": "https://www.apkmirror.com",
-            "desc": "国外纯净APK下载",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "ApkPure",
-            "url": "https://apkpure.com",
-            "desc": "Google Play替代",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "F-Droid",
-            "url": "https://f-droid.org",
-            "desc": "开源安卓应用商店",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "豌豆荚",
-            "url": "https://www.wandoujia.com",
-            "desc": "老牌安卓应用市场",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "PP助手",
-            "url": "https://www.25pp.com",
-            "desc": "应用下载平台",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "安智市场",
-            "url": "https://www.anzhi.com",
-            "desc": "安卓应用社区",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30006,
-        "title": "🍎 iOS应用",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "App Store",
-            "url": "https://apps.apple.com",
-            "desc": "苹果官方应用商店",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "TestFlight",
-            "url": "https://developer.apple.com/testflight",
-            "desc": "Beta测试应用",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "爱思助手",
-            "url": "https://www.i4.cn",
-            "desc": "苹果设备管理工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "PP助手",
-            "url": "https://pro.25pp.com",
-            "desc": "iOS应用下载",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "同步推",
-            "url": "https://www.tongbu.com",
-            "desc": "iOS资源平台",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "iMazing",
-            "url": "https://imazing.com",
-            "desc": "高级iOS设备管理",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "AltStore",
-            "url": "https://altstore.io",
-            "desc": "第三方应用商店",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "TrollStore",
-            "url": "https://trollstore.app",
-            "desc": "永久签名工具",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30007,
-        "title": "📺 电视盒子应用",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "蚂蚁市场",
-            "url": "https://www.mayiapk.com",
-            "desc": "电视应用市场",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "当贝市场",
-            "url": "https://www.dangbei.com",
-            "desc": "智能电视应用商店",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "沙发管家",
-            "url": "https://www.shafa.com",
-            "desc": "电视盒子应用市场",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "美家市场",
-            "url": "https://www.mjapk.com",
-            "desc": "电视应用大全",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "乐视应用商店",
-            "url": "http://store.leplay.cn",
-            "desc": "乐视电视市场",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "奇珀市场",
-            "url": "http://www.7po.com",
-            "desc": "智能电视应用",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30008,
-        "title": "🎬 视频音乐",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "VLC媒体播放器",
-            "url": "https://www.videolan.org",
-            "desc": "全能格式播放器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "MPV",
-            "url": "https://mpv.io",
-            "desc": "极简高性能播放器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "MPC-HC",
-            "url": "https://mpc-hc.org",
-            "desc": "轻量经典播放器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Foobar2000",
-            "url": "https://www.foobar2000.org",
-            "desc": "HIFI音乐播放器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Audacity",
-            "url": "https://www.audacityteam.org",
-            "desc": "开源音频编辑",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "HandBrake",
-            "url": "https://handbrake.fr",
-            "desc": "视频转码压缩",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "OBS Studio",
-            "url": "https://obsproject.com",
-            "desc": "直播录屏神器",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "剪映专业版",
-            "url": "https://www.capcut.cn",
-            "desc": "免费专业视频剪辑",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30009,
-        "title": "🛡️ 安全杀毒",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "火绒安全",
-            "url": "https://www.huorong.cn",
-            "desc": "国产轻量杀毒",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Windows Defender",
-            "url": "https://www.microsoft.com",
-            "desc": "系统自带防护",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Bitdefender",
-            "url": "https://www.bitdefender.com",
-            "desc": "国外顶级杀毒",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Kaspersky",
-            "url": "https://www.kaspersky.com",
-            "desc": "卡巴斯基安全",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "Malwarebytes",
-            "url": "https://www.malwarebytes.com",
-            "desc": "恶意软件查杀",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "360安全卫士",
-            "url": "https://www.360.cn",
-            "desc": "国产防护套装",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 30010,
-    "title": "🌈 生活服务导航",
-    "icon": "",
-    "createdAt": "2026-04-17T06:18:28.103Z",
-    "nav": [
-      {
-        "id": 30011,
-        "title": "🏠 日常生活",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "支付宝",
-            "url": "https://www.alipay.com",
-            "desc": "移动支付平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "微信支付",
-            "url": "https://pay.weixin.qq.com",
-            "desc": "微信支付平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "12306",
-            "url": "https://www.12306.cn",
-            "desc": "火车票官方购票",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "携程旅行",
-            "url": "https://www.ctrip.com",
-            "desc": "酒店机票预订",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "美团",
-            "url": "https://www.meituan.com",
-            "desc": "外卖团购生活",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "饿了么",
-            "url": "https://www.ele.me",
-            "desc": "外卖送餐平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "大众点评",
-            "url": "https://www.dianping.com",
-            "desc": "美食店铺评价",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "高德地图",
-            "url": "https://amap.com",
-            "desc": "导航地图服务",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "百度地图",
-            "url": "https://map.baidu.com",
-            "desc": "百度地图导航",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "滴滴出行",
-            "url": "https://www.didiglobal.com",
-            "desc": "网约车平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "菜鸟裹裹",
-            "url": "https://www.cainiao.com",
-            "desc": "快递物流查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "顺丰速运",
-            "url": "https://www.sf-express.com",
-            "desc": "顺丰快递官方",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "京东物流",
-            "url": "https://www.jdl.com",
-            "desc": "京东物流服务",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "中国移动",
-            "url": "https://www.10086.cn",
-            "desc": "移动营业厅",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "中国联通",
-            "url": "https://www.10010.com",
-            "desc": "联通营业厅",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "中国电信",
-            "url": "https://www.189.cn",
-            "desc": "电信营业厅",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "国家电网",
-            "url": "https://www.95598.cn",
-            "desc": "电费缴纳查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "网上国网",
-            "url": "https://www.sgcc.com.cn",
-            "desc": "国家电网服务",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30012,
-        "title": "🏥 医疗健康",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "丁香医生",
-            "url": "https://dxy.com",
-            "desc": "专业医疗科普",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "春雨医生",
-            "url": "https://www.chunyuyisheng.com",
-            "desc": "在线问诊咨询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "好大夫在线",
-            "url": "https://www.haodf.com",
-            "desc": "医生预约挂号",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "微医",
-            "url": "https://www.guahao.com",
-            "desc": "挂号问诊平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "平安好医生",
-            "url": "https://www.pingan.com",
-            "desc": "平安健康平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "京东健康",
-            "url": "https://health.jd.com",
-            "desc": "在线医疗服务",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "阿里健康",
-            "url": "https://www.alihealth.cn",
-            "desc": "阿里健康平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "健客网",
-            "url": "https://www.jianke.com",
-            "desc": "网上药店平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "1药网",
-            "url": "https://www.111.com.cn",
-            "desc": "网上药品商城",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "康爱多",
-            "url": "https://www.360kad.com",
-            "desc": "医药电商平台",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30013,
-        "title": "🍜 美食菜谱",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "下厨房",
-            "url": "https://www.xiachufang.com",
-            "desc": "家常菜谱大全",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "豆果美食",
-            "url": "https://www.douguo.com",
-            "desc": "美食社区平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "美食天下",
-            "url": "https://www.meishichina.com",
-            "desc": "中华美食大全",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "掌厨",
-            "url": "https://www.izhangchu.com",
-            "desc": "视频菜谱教学",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "味库美食",
-            "url": "https://www.wecook.cn",
-            "desc": "食材菜谱推荐",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "厨房故事",
-            "url": "https://www.kitchenstories.com",
-            "desc": "国际美食菜谱",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "懒饭",
-            "url": "https://www.lanfan.com",
-            "desc": "懒人快手菜谱",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "饮食部落",
-            "url": "https://food.nongli.com",
-            "desc": "健康饮食资讯",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30014,
-        "title": "🛒 网上购物",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "淘宝",
-            "url": "https://www.taobao.com",
-            "desc": "阿里巴巴购物平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "天猫",
-            "url": "https://www.tmall.com",
-            "desc": "天猫官方商城",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "京东",
-            "url": "https://www.jd.com",
-            "desc": "京东自营商城",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "拼多多",
-            "url": "https://www.pinduoduo.com",
-            "desc": "拼团低价购物",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "苏宁易购",
-            "url": "https://www.suning.com",
-            "desc": "苏宁电器商城",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "国美在线",
-            "url": "https://www.gome.com.cn",
-            "desc": "国美电器商城",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "当当",
-            "url": "https://www.dangdang.com",
-            "desc": "图书文具商城",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "亚马逊中国",
-            "url": "https://www.amazon.cn",
-            "desc": "亚马逊购物",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "网易严选",
-            "url": "https://you.163.com",
-            "desc": "网易品质生活",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "小米商城",
-            "url": "https://www.mi.com",
-            "desc": "小米官方商城",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "华为商城",
-            "url": "https://www.vmall.com",
-            "desc": "华为官方商城",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "唯品会",
-            "url": "https://www.vip.com",
-            "desc": "品牌折扣特卖",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "考拉海购",
-            "url": "https://www.kaola.com",
-            "desc": "进口商品直购",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "得物",
-            "url": "https://www.dewu.com",
-            "desc": "潮流鉴别购物",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "闲鱼",
-            "url": "https://2.taobao.com",
-            "desc": "二手闲置交易",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "转转",
-            "url": "https://www.zhuanzhuan.com",
-            "desc": "二手物品交易",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      },
-      {
-        "id": 30015,
-        "title": "📰 新闻资讯",
-        "icon": "",
-        "createdAt": "2026-04-17T06:18:28.103Z",
-        "nav": [
-          {
-            "name": "今日头条",
-            "url": "https://www.toutiao.com",
-            "desc": "个性化新闻推荐",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "腾讯新闻",
-            "url": "https://news.qq.com",
-            "desc": "腾讯新闻平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "网易新闻",
-            "url": "https://news.163.com",
-            "desc": "网易新闻门户",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "新浪新闻",
-            "url": "https://news.sina.com.cn",
-            "desc": "新浪新闻门户",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "搜狐新闻",
-            "url": "https://news.sohu.com",
-            "desc": "搜狐新闻门户",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "凤凰新闻",
-            "url": "https://www.ifeng.com",
-            "desc": "凤凰卫视资讯",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "澎湃新闻",
-            "url": "https://www.thepaper.cn",
-            "desc": "深度新闻报道",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "界面新闻",
-            "url": "https://www.jiemian.com",
-            "desc": "商业新闻平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "36氪",
-            "url": "https://36kr.com",
-            "desc": "创业创投资讯",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "虎嗅",
-            "url": "https://www.huxiu.com",
-            "desc": "科技商业媒体",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "钛媒体",
-            "url": "https://www.tmtpost.com",
-            "desc": "科技新媒体",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "知乎",
-            "url": "https://www.zhihu.com",
-            "desc": "中文问答社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "豆瓣",
-            "url": "https://www.douban.com",
-            "desc": "兴趣文化社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "微博",
-            "url": "https://weibo.com",
-            "desc": "社交媒体平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "B站",
-            "url": "https://www.bilibili.com",
-            "desc": "视频弹幕网站",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          },
-          {
-            "name": "小红书",
-            "url": "https://www.xiaohongshu.com",
-            "desc": "生活方式平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:18:28.103Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 40000,
-    "title": "🎮 娱乐休闲中心",
-    "icon": "",
-    "createdAt": "2026-04-17T06:20:13.477Z",
-    "nav": [
-      {
-        "id": 40001,
-        "title": "🎬 影视追剧",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "腾讯视频",
-            "url": "https://v.qq.com",
-            "desc": "腾讯正版视频平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "爱奇艺",
-            "url": "https://www.iqiyi.com",
-            "desc": "爱奇艺视频平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "优酷",
-            "url": "https://youku.com",
-            "desc": "阿里优酷视频",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "芒果TV",
-            "url": "https://www.mgtv.com",
-            "desc": "湖南卫视官方",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "哔哩哔哩",
-            "url": "https://www.bilibili.com",
-            "desc": "B站弹幕视频",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "西瓜视频",
-            "url": "https://www.ixigua.com",
-            "desc": "字节中视频平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "抖音",
-            "url": "https://www.douyin.com",
-            "desc": "短视频平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "快手",
-            "url": "https://www.kuaishou.com",
-            "desc": "快手短视频",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "YouTube",
-            "url": "https://www.youtube.com",
-            "desc": "全球最大视频",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Netflix",
-            "url": "https://www.netflix.com",
-            "desc": "网飞流媒体",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Disney+",
-            "url": "https://www.disneyplus.com",
-            "desc": "迪士尼流媒体",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "HBO Max",
-            "url": "https://www.hbomax.com",
-            "desc": "HBO流媒体",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      },
-      {
-        "id": 40002,
-        "title": "🎵 音乐电台",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "网易云音乐",
-            "url": "https://music.163.com",
-            "desc": "网易云音乐社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "QQ音乐",
-            "url": "https://y.qq.com",
-            "desc": "腾讯QQ音乐",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "酷狗音乐",
-            "url": "https://www.kugou.com",
-            "desc": "酷狗音乐平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "酷我音乐",
-            "url": "https://www.kuwo.cn",
-            "desc": "酷我音乐平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "虾米音乐",
-            "url": "https://www.xiami.com",
-            "desc": "阿里虾米音乐",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "咪咕音乐",
-            "url": "https://music.migu.cn",
-            "desc": "移动咪咕音乐",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Spotify",
-            "url": "https://open.spotify.com",
-            "desc": "全球流媒体音乐",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Apple Music",
-            "url": "https://music.apple.com",
-            "desc": "苹果音乐服务",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "SoundCloud",
-            "url": "https://soundcloud.com",
-            "desc": "独立音乐人平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "豆瓣FM",
-            "url": "https://douban.fm",
-            "desc": "豆瓣电台",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      },
-      {
-        "id": 40003,
-        "title": "📚 文学阅读",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "微信读书",
-            "url": "https://weread.qq.com",
-            "desc": "腾讯电子书平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "掌阅",
-            "url": "https://www.ireader.com",
-            "desc": "掌阅电子书城",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "起点中文网",
-            "url": "https://www.qidian.com",
-            "desc": "起点小说平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "晋江文学城",
-            "url": "https://www.jjwxc.net",
-            "desc": "晋江原创小说",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "纵横中文网",
-            "url": "https://www.zongheng.com",
-            "desc": "纵横小说平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "番茄小说",
-            "url": "https://fanqienovel.com",
-            "desc": "字节免费小说",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "七猫小说",
-            "url": "https://www.qimao.com",
-            "desc": "七猫免费小说",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "知乎盐选",
-            "url": "https://www.zhihu.com/market",
-            "desc": "知乎付费专栏",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "得到",
-            "url": "https://www.dedao.cn",
-            "desc": "得到电子书",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "喜马拉雅",
-            "url": "https://www.ximalaya.com",
-            "desc": "有声书平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "蜻蜓FM",
-            "url": "https://www.qingting.fm",
-            "desc": "音频电台平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Kindle商店",
-            "url": "https://www.amazon.cn/kindle",
-            "desc": "亚马逊电子书",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      },
-      {
-        "id": 40004,
-        "title": "🖼️ 图片壁纸",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "Unsplash",
-            "url": "https://unsplash.com",
-            "desc": "免费高清摄影图",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Pexels",
-            "url": "https://www.pexels.com",
-            "desc": "免费高质量图片",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Pixabay",
-            "url": "https://pixabay.com",
-            "desc": "免费图片矢量图",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Wallhaven",
-            "url": "https://wallhaven.cc",
-            "desc": "高清壁纸社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Wallpaper Abyss",
-            "url": "https://wall.alphacoders.com",
-            "desc": "海量壁纸库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "必应壁纸",
-            "url": "https://bing.gifposter.com",
-            "desc": "必应每日壁纸",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "极简壁纸",
-            "url": "https://bz.zzzmh.cn",
-            "desc": "国内高清壁纸",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "彼岸图网",
-            "url": "https://pic.netbian.com",
-            "desc": "4K壁纸下载",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "千图网",
-            "url": "https://www.58pic.com",
-            "desc": "设计素材图库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "包图网",
-            "url": "https://ibaotu.com",
-            "desc": "设计素材平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "摄图网",
-            "url": "https://699pic.com",
-            "desc": "正版摄影图库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "图虫创意",
-            "url": "https://tuchong.com",
-            "desc": "摄影社区图库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      },
-      {
-        "id": 40005,
-        "title": "🎨 设计素材",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "Figma",
-            "url": "https://www.figma.com",
-            "desc": "在线UI设计工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Sketch",
-            "url": "https://www.sketch.com",
-            "desc": "Mac设计工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "站酷",
-            "url": "https://www.zcool.com.cn",
-            "desc": "设计师社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "花瓣网",
-            "url": "https://huaban.com",
-            "desc": "设计灵感采集",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Behance",
-            "url": "https://www.behance.net",
-            "desc": "全球设计作品",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Dribbble",
-            "url": "https://dribbble.com",
-            "desc": "设计师展示平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Pinterest",
-            "url": "https://www.pinterest.com",
-            "desc": "灵感发现平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "千库网",
-            "url": "https://www.588ku.com",
-            "desc": "PNG免抠素材",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "阿里巴巴矢量库",
-            "url": "https://www.iconfont.cn",
-            "desc": "图标字体库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "IconPark",
-            "url": "https://iconpark.oceanengine.com",
-            "desc": "字节图标库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Flaticon",
-            "url": "https://www.flaticon.com",
-            "desc": "国外图标库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Freepik",
-            "url": "https://www.freepik.com",
-            "desc": "矢量素材平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      },
-      {
-        "id": 40006,
-        "title": "🎮 游戏娱乐",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "Steam",
-            "url": "https://store.steampowered.com",
-            "desc": "PC游戏平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Epic Games",
-            "url": "https://www.epicgames.com",
-            "desc": "Epic游戏商店",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "腾讯WeGame",
-            "url": "https://www.wegame.com.cn",
-            "desc": "腾讯游戏平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "暴雪战网",
-            "url": "https://www.blizzard.com",
-            "desc": "暴雪游戏平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Origin",
-            "url": "https://www.origin.com",
-            "desc": "EA游戏平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Uplay",
-            "url": "https://ubisoftconnect.com",
-            "desc": "育碧游戏平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "TapTap",
-            "url": "https://www.taptap.com",
-            "desc": "手游发现平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "好游快爆",
-            "url": "https://www.3839.com",
-            "desc": "手游资讯平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "游民星空",
-            "url": "https://www.gamersky.com",
-            "desc": "游戏资讯门户",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "3DM游戏网",
-            "url": "https://www.3dmgame.com",
-            "desc": "单机游戏门户",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "游侠网",
-            "url": "https://www.ali213.net",
-            "desc": "单机游戏资讯",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "NGA玩家社区",
-            "url": "https://bbs.nga.cn",
-            "desc": "魔兽世界社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 40007,
-    "title": "🌍 生活品质提升",
-    "icon": "",
-    "createdAt": "2026-04-17T06:20:13.482Z",
-    "nav": [
-      {
-        "id": 40008,
-        "title": "✈️ 旅游出行",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "携程旅行",
-            "url": "https://www.ctrip.com",
-            "desc": "机票酒店预订",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "去哪儿",
-            "url": "https://www.qunar.com",
-            "desc": "低价机票搜索",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "飞猪",
-            "url": "https://www.fliggy.com",
-            "desc": "阿里旅行平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "同程旅行",
-            "url": "https://www.ly.com",
-            "desc": "同程旅游平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "艺龙旅行",
-            "url": "https://www.elong.com",
-            "desc": "酒店预订平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "马蜂窝",
-            "url": "https://www.mafengwo.cn",
-            "desc": "旅游攻略社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "穷游网",
-            "url": "https://www.qyer.com",
-            "desc": "出境游攻略",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "途牛",
-            "url": "https://www.tuniu.com",
-            "desc": "跟团游平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Booking",
-            "url": "https://www.booking.com",
-            "desc": "全球酒店预订",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Agoda",
-            "url": "https://www.agoda.com",
-            "desc": "亚洲酒店预订",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Airbnb",
-            "url": "https://www.airbnb.com",
-            "desc": "民宿短租平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "飞常准",
-            "url": "https://www.variflight.com",
-            "desc": "航班动态查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      },
-      {
-        "id": 40009,
-        "title": "🚗 汽车交通",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "汽车之家",
-            "url": "https://www.autohome.com.cn",
-            "desc": "汽车资讯门户",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "易车网",
-            "url": "https://www.yiche.com",
-            "desc": "汽车报价平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "懂车帝",
-            "url": "https://www.dongchedi.com",
-            "desc": "字节汽车平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "太平洋汽车",
-            "url": "https://www.pcauto.com.cn",
-            "desc": "汽车资讯评测",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "爱卡汽车",
-            "url": "https://www.xcar.com.cn",
-            "desc": "汽车社区论坛",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "瓜子二手车",
-            "url": "https://www.guazi.com",
-            "desc": "二手车直卖平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "人人车",
-            "url": "https://www.renrenche.com",
-            "desc": "二手车交易平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "优信二手车",
-            "url": "https://www.uxin.com",
-            "desc": "二手车电商平台",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "高德地图",
-            "url": "https://amap.com",
-            "desc": "导航地图服务",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "百度地图",
-            "url": "https://map.baidu.com",
-            "desc": "百度地图导航",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "腾讯地图",
-            "url": "https://map.qq.com",
-            "desc": "腾讯地图服务",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "滴滴出行",
-            "url": "https://www.didiglobal.com",
-            "desc": "网约车平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      },
-      {
-        "id": 40010,
-        "title": "🏠 房产家居",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "链家",
-            "url": "https://www.lianjia.com",
-            "desc": "房产中介平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "贝壳找房",
-            "url": "https://ke.com",
-            "desc": "房产交易平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "安居客",
-            "url": "https://www.anjuke.com",
-            "desc": "房产信息平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "房天下",
-            "url": "https://www1.fang.com",
-            "desc": "房产门户平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "58同城",
-            "url": "https://www.58.com",
-            "desc": "分类信息平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "赶集网",
-            "url": "https://www.ganji.com",
-            "desc": "生活分类信息",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "自如",
-            "url": "https://www.ziroom.com",
-            "desc": "长租公寓平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "蛋壳公寓",
-            "url": "https://www.dankegongyu.com",
-            "desc": "品牌公寓平台",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "居然之家",
-            "url": "https://www.juran.com.cn",
-            "desc": "家居建材平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "红星美凯龙",
-            "url": "https://www.chinaredstar.com",
-            "desc": "家居卖场平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "宜家家居",
-            "url": "https://www.ikea.com",
-            "desc": "宜家家具商城",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "无印良品",
-            "url": "https://www.muji.com.cn",
-            "desc": "MUJI家居",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      },
-      {
-        "id": 40011,
-        "title": "💄 时尚美容",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "小红书",
-            "url": "https://www.xiaohongshu.com",
-            "desc": "种草分享平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "什么值得买",
-            "url": "https://www.smzdm.com",
-            "desc": "优惠购物推荐",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "慢慢买",
-            "url": "https://www.manmanbuy.com",
-            "desc": "比价购物平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "喵喵折",
-            "url": "https://www.miaomiaozhe.com",
-            "desc": "历史价格查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "慢慢买比价",
-            "url": "https://www.manmanbuy.com",
-            "desc": "商品历史价格",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "什么值得买",
-            "url": "https://www.smzdm.com",
-            "desc": "网购推荐平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "蘑菇街",
-            "url": "https://www.mogujie.com",
-            "desc": "女性时尚购物",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "美丽说",
-            "url": "https://www.meilishuo.com",
-            "desc": "时尚穿搭平台",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "太平洋时尚网",
-            "url": "https://www.pclady.com.cn",
-            "desc": "时尚美容资讯",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "OnlyLady女人志",
-            "url": "https://www.onlylady.com",
-            "desc": "女性时尚媒体",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "瑞丽网",
-            "url": "https://www.rayli.com.cn",
-            "desc": "时尚杂志平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "ELLE中国",
-            "url": "https://www.ellechina.com",
-            "desc": "高端时尚媒体",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      },
-      {
-        "id": 40012,
-        "title": "👶 母婴育儿",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "宝宝树",
-            "url": "https://www.babytree.com",
-            "desc": "母婴育儿社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "妈妈网",
-            "url": "https://www.mama.cn",
-            "desc": "妈妈交流社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "育儿网",
-            "url": "https://www.yuer.com",
-            "desc": "育儿知识平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "太平洋亲子网",
-            "url": "https://www.pcbaby.com.cn",
-            "desc": "亲子育儿资讯",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "摇篮网",
-            "url": "https://www.yaolan.com",
-            "desc": "专业育儿平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "亲子王国",
-            "url": "https://www.baby-kingdom.com",
-            "desc": "香港育儿论坛",
-            "rate": 4,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "小红书母婴",
-            "url": "https://www.xiaohongshu.com",
-            "desc": "母婴好物分享",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "丁香妈妈",
-            "url": "https://dxy.com",
-            "desc": "专业母婴知识",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "年糕妈妈",
-            "url": "https://www.niangao-mama.com",
-            "desc": "育儿科普平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "崔玉涛育学园",
-            "url": "https://www.dr-cui.com",
-            "desc": "儿科医生平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      },
-      {
-        "id": 40013,
-        "title": "💪 运动健身",
-        "icon": "",
-        "createdAt": "2026-04-17T06:20:13.482Z",
-        "nav": [
-          {
-            "name": "Keep",
-            "url": "https://www.keep.com",
-            "desc": "移动健身教练",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "FitTime",
-            "url": "https://www.fittime.com",
-            "desc": "健身视频平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "薄荷健康",
-            "url": "https://www.boohee.com",
-            "desc": "健康饮食管理",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "MyFitnessPal",
-            "url": "https://www.myfitnesspal.com",
-            "desc": "卡路里计算",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "Nike Training",
-            "url": "https://www.nike.com/ntc-app",
-            "desc": "耐克训练应用",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "咕咚",
-            "url": "https://www.codoon.com",
-            "desc": "跑步运动记录",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "悦跑圈",
-            "url": "https://www.thejoyrun.com",
-            "desc": "跑步社交平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "虎扑",
-            "url": "https://www.hupu.com",
-            "desc": "体育社区论坛",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "懂球帝",
-            "url": "https://www.dongqiudi.com",
-            "desc": "足球资讯平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          },
-          {
-            "name": "直播吧",
-            "url": "https://www.zhibo8.cc",
-            "desc": "体育赛事直播",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:20:13.482Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 50000,
-    "title": "🔮 玄学传统文化",
-    "icon": "",
-    "createdAt": "2026-04-17T06:21:20.285Z",
-    "nav": [
-      {
-        "id": 50001,
-        "title": "📅 黄历择日",
-        "icon": "",
-        "createdAt": "2026-04-17T06:21:20.286Z",
-        "nav": [
-          {
-            "name": "老黄历",
-            "url": "https://laohuangli.net",
-            "desc": "传统黄历查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "黄道吉日",
-            "url": "https://www.hdjr.org",
-            "desc": "择吉看日子",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "万年历",
-            "url": "https://wannianli.tianqi.com",
-            "desc": "万年历查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "汉典万年历",
-            "url": "https://www.zdic.net/calendar",
-            "desc": "权威黄历工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "农历网",
-            "url": "https://www.nongli.com",
-            "desc": "农历节气查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "神婆网",
-            "url": "https://www.shenpo.com",
-            "desc": "黄历吉日查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "卜易居",
-            "url": "https://www.buyiju.com/huangli",
-            "desc": "择吉老黄历",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "非常运势",
-            "url": "https://www.99166.com/huangli",
-            "desc": "每日运势黄历",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "第一星座",
-            "url": "https://www.d1xz.net/huangli",
-            "desc": "黄道吉日查询",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "水墨先生",
-            "url": "https://www.shuimotang.com",
-            "desc": "择日择吉工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          }
-        ]
-      },
-      {
-        "id": 50002,
-        "title": "☯️ 易经八卦",
-        "icon": "",
-        "createdAt": "2026-04-17T06:21:20.286Z",
-        "nav": [
-          {
-            "name": "易经网",
-            "url": "https://www.yijing.com",
-            "desc": "周易易经门户",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "中华周易网",
-            "url": "https://www.zhouyi.cc",
-            "desc": "周易研究平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "易经六十四卦",
-            "url": "https://www.64gua.com",
-            "desc": "六十四卦详解",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "周易天地",
-            "url": "https://www.zhouyiworld.com",
-            "desc": "易学交流论坛",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "元亨利贞",
-            "url": "https://www.china95.net",
-            "desc": "老牌周易论坛",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "龙隐网",
-            "url": "https://www.longyin.net",
-            "desc": "周易预测社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "东方易学网",
-            "url": "https://www.dfyxw.com",
-            "desc": "易学资料大全",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "周易文化网",
-            "url": "https://www.zhouyiwenhua.com",
-            "desc": "周易文化研究",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "易经智慧",
-            "url": "https://www.yijingzhihui.com",
-            "desc": "易经管理智慧",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "傅佩荣易经",
-            "url": "https://www.ipexpert.com.tw",
-            "desc": "傅佩荣详解易经",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          }
-        ]
-      },
-      {
-        "id": 50003,
-        "title": "🏠 风水堪舆",
-        "icon": "",
-        "createdAt": "2026-04-17T06:21:20.286Z",
-        "nav": [
-          {
-            "name": "中国风水网",
-            "url": "https://www.fengshui.com.cn",
-            "desc": "风水专业门户",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "风水大师",
-            "url": "https://www.fengshuidashi.com",
-            "desc": "风水知识大全",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "风水堂",
-            "url": "https://www.fengshuitang.com",
-            "desc": "阳宅风水入门",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "香港风水网",
-            "url": "https://www.hkfengshui.com",
-            "desc": "港式风水文化",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "住宅风水",
-            "url": "https://www.zhuzhaifengshui.com",
-            "desc": "家居风水指南",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "办公室风水",
-            "url": "https://www.bgsfs.com",
-            "desc": "职场风水布局",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "墓地风水",
-            "url": "https://www.mudifengshui.com",
-            "desc": "阴宅风水详解",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "装修风水",
-            "url": "https://www.zxfs.com",
-            "desc": "装修风水禁忌",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "商业风水",
-            "url": "https://www.syfs.com",
-            "desc": "店铺办公风水",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "风水罗盘",
-            "url": "https://www.fengshuiluopan.com",
-            "desc": "罗盘使用教程",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          }
-        ]
-      },
-      {
-        "id": 50004,
-        "title": "🎴 奇门遁甲",
-        "icon": "",
-        "createdAt": "2026-04-17T06:21:20.286Z",
-        "nav": [
-          {
-            "name": "奇门遁甲网",
-            "url": "https://www.qimendunjia.com",
-            "desc": "奇门专业门户",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "奇门在线排盘",
-            "url": "https://www.qm123.com",
-            "desc": "奇门遁甲排盘",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "元亨利贞奇门",
-            "url": "https://www.china95.net/qimen",
-            "desc": "奇门排盘系统",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "奇门遁甲论坛",
-            "url": "https://www.qimenbbs.com",
-            "desc": "奇门学习交流",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "神奇之门",
-            "url": "https://www.shenqizhimen.com",
-            "desc": "张志春奇门",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "阴盘奇门",
-            "url": "https://www.yinpanqimen.com",
-            "desc": "王凤麟阴盘",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "时家奇门",
-            "url": "https://www.shijiaqimen.com",
-            "desc": "时家奇门遁甲",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "奇门预测",
-            "url": "https://www.qimenyuce.com",
-            "desc": "奇门案例解析",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          }
-        ]
-      },
-      {
-        "id": 50005,
-        "title": "🌟 八字命理",
-        "icon": "",
-        "createdAt": "2026-04-17T06:21:20.286Z",
-        "nav": [
-          {
-            "name": "八字排盘",
-            "url": "https://www.bazipai.com",
-            "desc": "四柱八字排盘",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "元亨利贞八字",
-            "url": "https://www.china95.net/bazi",
-            "desc": "八字排盘系统",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "八字算命",
-            "url": "https://www.bazisuanming.com",
-            "desc": "生辰八字分析",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "盲派八字",
-            "url": "https://www.mangpai.com",
-            "desc": "盲派命理传承",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "滴天髓",
-            "url": "https://www.ditiansui.com",
-            "desc": "命理经典研读",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "穷通宝鉴",
-            "url": "https://www.qtongbaojian.com",
-            "desc": "调候用神指南",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "三命通会",
-            "url": "https://www.sanmingtonghui.com",
-            "desc": "命理百科全书",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "渊海子平",
-            "url": "https://www.yuanhaiziping.com",
-            "desc": "子平八字源头",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          }
-        ]
-      },
-      {
-        "id": 50006,
-        "title": "🙏 佛道修行",
-        "icon": "",
-        "createdAt": "2026-04-17T06:21:20.286Z",
-        "nav": [
-          {
-            "name": "佛学在线",
-            "url": "https://www.foxue.org",
-            "desc": "佛教学习平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "佛教网",
-            "url": "https://www.fojiao.com",
-            "desc": "佛教资讯门户",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "大藏经",
-            "url": "https://www.dazangjing.com",
-            "desc": "大藏经在线",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "中华佛典宝库",
-            "url": "https://www.fodian.net",
-            "desc": "佛经电子库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "道教之音",
-            "url": "https://www.daoisms.org",
-            "desc": "道教文化门户",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "中国道教协会",
-            "url": "https://www.taoist.org.cn",
-            "desc": "官方道教协会",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "道门网",
-            "url": "https://www.daomen.com",
-            "desc": "道教修行交流",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          },
-          {
-            "name": "玄学问答",
-            "url": "https://www.xuanxue.com",
-            "desc": "玄学知识问答",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:21:20.286Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 60000,
-    "title": "🛠️ 在线工具与资源",
-    "icon": "",
-    "createdAt": "2026-04-17T06:22:43.570Z",
-    "nav": [
-      {
-        "id": 60001,
-        "title": "🔧 在线工具合集",
-        "icon": "",
-        "createdAt": "2026-04-17T06:22:43.571Z",
-        "nav": [
-          {
-            "name": "PDF24 Tools",
-            "url": "https://tools.pdf24.org",
-            "desc": "免费PDF工具大全",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "SmallPDF",
-            "url": "https://smallpdf.com",
-            "desc": "PDF转换压缩",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "iLovePDF",
-            "url": "https://www.ilovepdf.com",
-            "desc": "PDF处理工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "TinyPNG",
-            "url": "https://tinypng.com",
-            "desc": "图片智能压缩",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Squoosh",
-            "url": "https://squoosh.app",
-            "desc": "Google图片压缩",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Canva可画",
-            "url": "https://www.canva.cn",
-            "desc": "在线设计工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "图怪兽",
-            "url": "https://www.818ps.com",
-            "desc": "图片设计模板",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "创客贴",
-            "url": "https://www.chuangkit.com",
-            "desc": "平面设计平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "ProcessOn",
-            "url": "https://www.processon.com",
-            "desc": "在线思维导图",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "XMind",
-            "url": "https://www.xmind.cn",
-            "desc": "思维导图工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "百度脑图",
-            "url": "https://naotu.baidu.com",
-            "desc": "免费思维导图",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "石墨文档",
-            "url": "https://shimo.im",
-            "desc": "在线协作文档",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "腾讯文档",
-            "url": "https://docs.qq.com",
-            "desc": "多人协作编辑",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "飞书文档",
-            "url": "https://www.feishu.cn",
-            "desc": "字节协作平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Notion",
-            "url": "https://www.notion.so",
-            "desc": "All-in-One笔记",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "语雀",
-            "url": "https://www.yuque.com",
-            "desc": "阿里知识平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "印象笔记",
-            "url": "https://www.yinxiang.com",
-            "desc": "云笔记服务",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "有道云笔记",
-            "url": "https://note.youdao.com",
-            "desc": "网易云笔记",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "二维码生成",
-            "url": "https://cli.im",
-            "desc": "草料二维码",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "JSON格式化",
-            "url": "https://www.json.cn",
-            "desc": "JSON在线解析",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "站长工具",
-            "url": "https://tool.chinaz.com",
-            "desc": "SEO查询工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "爱站网",
-            "url": "https://www.aizhan.com",
-            "desc": "站长SEO工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Miku工具",
-            "url": "https://tools.miku.ac",
-            "desc": "在线工具合集",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "爱资料工具",
-            "url": "https://www.toolnb.com",
-            "desc": "海量在线工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          }
-        ]
-      },
-      {
-        "id": 60002,
-        "title": "👨‍💻 开发者资源",
-        "icon": "",
-        "createdAt": "2026-04-17T06:22:43.571Z",
-        "nav": [
-          {
-            "name": "GitHub",
-            "url": "https://github.com",
-            "desc": "全球最大开源社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Gitee",
-            "url": "https://gitee.com",
-            "desc": "国内开源平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "GitLab",
-            "url": "https://gitlab.com",
-            "desc": "开源代码托管",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Stack Overflow",
-            "url": "https://stackoverflow.com",
-            "desc": "编程问答社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "掘金",
-            "url": "https://juejin.cn",
-            "desc": "国内开发者社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "CSDN",
-            "url": "https://www.csdn.net",
-            "desc": "程序员技术社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "博客园",
-            "url": "https://www.cnblogs.com",
-            "desc": "开发者博客平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "思否",
-            "url": "https://segmentfault.com",
-            "desc": "技术问答社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "开源中国",
-            "url": "https://www.oschina.net",
-            "desc": "开源软件社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "V2EX",
-            "url": "https://www.v2ex.com",
-            "desc": "创意工作者社区",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "知乎技术",
-            "url": "https://www.zhihu.com/tech",
-            "desc": "技术话题讨论",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "MDN Web Docs",
-            "url": "https://developer.mozilla.org",
-            "desc": "Web开发文档",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "菜鸟教程",
-            "url": "https://www.runoob.com",
-            "desc": "编程入门教程",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "W3Schools",
-            "url": "https://www.w3schools.com",
-            "desc": "Web开发教程",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "LeetCode",
-            "url": "https://leetcode.cn",
-            "desc": "算法刷题平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "牛客网",
-            "url": "https://www.nowcoder.com",
-            "desc": "求职刷题平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Docker Hub",
-            "url": "https://hub.docker.com",
-            "desc": "容器镜像仓库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "NPM",
-            "url": "https://www.npmjs.com",
-            "desc": "Node.js包管理",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "PyPI",
-            "url": "https://pypi.org",
-            "desc": "Python包索引",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Maven",
-            "url": "https://mvnrepository.com",
-            "desc": "Java仓库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "DevDocs",
-            "url": "https://devdocs.io",
-            "desc": "API文档合集",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Regex101",
-            "url": "https://regex101.com",
-            "desc": "正则表达式测试",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Codepen",
-            "url": "https://codepen.io",
-            "desc": "前端代码演示",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "JSFiddle",
-            "url": "https://jsfiddle.net",
-            "desc": "在线代码调试",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          }
-        ]
-      },
-      {
-        "id": 60003,
-        "title": "🔍 网盘资源搜索",
-        "icon": "",
-        "createdAt": "2026-04-17T06:22:43.571Z",
-        "nav": [
-          {
-            "name": "阿里网盘",
-            "url": "https://www.aliyundrive.com",
-            "desc": "阿里云网盘",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "百度网盘",
-            "url": "https://pan.baidu.com",
-            "desc": "百度云存储",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "腾讯微云",
-            "url": "https://www.weiyun.com",
-            "desc": "腾讯云存储",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "115网盘",
-            "url": "https://www.115.com",
-            "desc": "115云存储",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "蓝奏云",
-            "url": "https://www.lanzou.com",
-            "desc": "蓝奏云盘",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "天翼云盘",
-            "url": "https://cloud.189.cn",
-            "desc": "电信云盘",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "和彩云",
-            "url": "https://www.caiyun.com",
-            "desc": "移动云盘",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "磁力猫",
-            "url": "https://www.cilimao.me",
-            "desc": "磁力链接搜索",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "BTDigg",
-            "url": "https://btdig.com",
-            "desc": "BT种子搜索",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "搜盘君",
-            "url": "https://www.soupanjun.com",
-            "desc": "网盘资源搜索",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "盘搜搜",
-            "url": "https://www.pansoso.com",
-            "desc": "网盘搜索引擎",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "云盘精灵",
-            "url": "https://www.yunpanjingling.com",
-            "desc": "网盘资源搜索",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "史莱姆搜索",
-            "url": "https://www.slimego.cn",
-            "desc": "网盘资源导航",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "大圣盘",
-            "url": "https://www.dashengpan.com",
-            "desc": "网盘搜索引擎",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          }
-        ]
-      },
-      {
-        "id": 60004,
-        "title": "📚 电子书资源",
-        "icon": "",
-        "createdAt": "2026-04-17T06:22:43.571Z",
-        "nav": [
-          {
-            "name": "Z-Library",
-            "url": "https://singlelogin.re",
-            "desc": "全球最大电子书",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Library Genesis",
-            "url": "https://libgen.is",
-            "desc": "创世纪图书馆",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "安娜的档案",
-            "url": "https://annas-archive.org",
-            "desc": "电子书搜索引擎",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "掌上书苑",
-            "url": "https://www.soepdf.com",
-            "desc": "EPUB电子书",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "图书检索",
-            "url": "https://www.book118.com",
-            "desc": "原创力文档",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "鸠摩搜书",
-            "url": "https://www.jiumodiary.com",
-            "desc": "电子书搜索引擎",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "周读",
-            "url": "https://www.ireadweek.com",
-            "desc": "电子书下载",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "我的小书屋",
-            "url": "https://www.mebook.cc",
-            "desc": "精校电子书",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "书格",
-            "url": "https://www.shuge.org",
-            "desc": "古籍数字化",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "世界数字图书馆",
-            "url": "https://www.wdl.org",
-            "desc": "全球古籍图书",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "国家数字图书馆",
-            "url": "https://www.nlc.cn",
-            "desc": "国图官方资源",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "全国图书馆参考联盟",
-            "url": "https://www.ucdrs.superlib.net",
-            "desc": "文献传递服务",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "读写人",
-            "url": "https://www.duxieren.com",
-            "desc": "书评与电子书",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "知轩藏书",
-            "url": "https://www.zxcs.me",
-            "desc": "精校小说下载",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          }
-        ]
-      },
-      {
-        "id": 60005,
-        "title": "🎓 在线教育平台",
-        "icon": "",
-        "createdAt": "2026-04-17T06:22:43.571Z",
-        "nav": [
-          {
-            "name": "中国大学MOOC",
-            "url": "https://www.icourse163.org",
-            "desc": "慕课平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Coursera",
-            "url": "https://www.coursera.org",
-            "desc": "全球名校课程",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "edX",
-            "url": "https://www.edx.org",
-            "desc": "哈佛MIT课程",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "学堂在线",
-            "url": "https://www.xuetangx.com",
-            "desc": "清华慕课平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "网易云课堂",
-            "url": "https://study.163.com",
-            "desc": "网易在线课程",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "腾讯课堂",
-            "url": "https://ke.qq.com",
-            "desc": "腾讯在线教育",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "极客时间",
-            "url": "https://time.geekbang.org",
-            "desc": "技术付费专栏",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "拉勾教育",
-            "url": "https://edu.lagou.com",
-            "desc": "IT职业教育",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "慕课网",
-            "url": "https://www.imooc.com",
-            "desc": "程序员梦工厂",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "B站学习",
-            "url": "https://www.bilibili.com",
-            "desc": "免费学习资源",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "知乎大学",
-            "url": "https://www.zhihu.com/courses",
-            "desc": "知乎付费课程",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "得到",
-            "url": "https://www.dedao.cn",
-            "desc": "知识服务平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "喜马拉雅",
-            "url": "https://www.ximalaya.com",
-            "desc": "音频学习平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "混沌学园",
-            "url": "https://www.hundun.cn",
-            "desc": "创新商业课程",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          }
-        ]
-      },
-      {
-        "id": 60006,
-        "title": "📄 文档论文资料",
-        "icon": "",
-        "createdAt": "2026-04-17T06:22:43.571Z",
-        "nav": [
-          {
-            "name": "中国知网",
-            "url": "https://www.cnki.net",
-            "desc": "CNKI学术数据库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "万方数据",
-            "url": "https://www.wanfangdata.com.cn",
-            "desc": "万方数据库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "维普网",
-            "url": "https://www.cqvip.com",
-            "desc": "维普期刊数据库",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "SCI-Hub",
-            "url": "https://sci-hub.se",
-            "desc": "免费下载论文",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "Google Scholar",
-            "url": "https://scholar.google.com",
-            "desc": "学术搜索引擎",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "百度学术",
-            "url": "https://xueshu.baidu.com",
-            "desc": "学术搜索平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "豆丁网",
-            "url": "https://www.docin.com",
-            "desc": "文档分享平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "道客巴巴",
-            "url": "https://www.doc88.com",
-            "desc": "文档下载平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "爱学术",
-            "url": "https://www.ixueshu.com",
-            "desc": "论文下载平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "ResearchGate",
-            "url": "https://www.researchgate.net",
-            "desc": "学术社交平台",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "arXiv",
-            "url": "https://arxiv.org",
-            "desc": "论文预印本",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
-          },
-          {
-            "name": "知网研学",
-            "url": "https://x.cnki.net",
-            "desc": "文献管理工具",
-            "rate": 5,
-            "createdAt": "2026-04-17T06:22:43.571Z"
+            "createdAt": "2021-01-23T01:32:06.424Z"
           }
         ]
       }
