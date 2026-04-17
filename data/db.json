@@ -4550,7 +4550,64 @@
       },
       {
         "title": "📑 精选工具",
-        "nav": [],
+        "nav": [
+          {
+            "name": "Everything 搜索",
+            "url": "https://www.voidtools.com",
+            "desc": "Windows本地文件秒搜神器",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "Listary 启动器",
+            "url": "https://www.listary.com",
+            "desc": "快速启动、文件搜索",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "Snipaste 截图",
+            "url": "https://www.snipaste.com",
+            "desc": "最好用的截图贴图工具",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "Quicker 自动化",
+            "url": "https://getquicker.net",
+            "desc": "鼠标右键快捷工具箱",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "Ditto 剪贴板",
+            "url": "https://ditto-cp.sourceforge.io",
+            "desc": "增强型剪贴板历史",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "uTools 工具箱",
+            "url": "https://u.tools",
+            "desc": "新一代效率启动器",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "PotPlayer 播放器",
+            "url": "https://potplayer.daum.net",
+            "desc": "全能视频播放器",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "7-Zip 解压",
+            "url": "https://www.7-zip.org",
+            "desc": "免费高压缩比工具",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          }
+        ],
         "id": 10036,
         "icon": ""
       }
@@ -5566,7 +5623,64 @@
       },
       {
         "title": "🏗️ 垂直领域",
-        "nav": [],
+        "nav": [
+          {
+            "name": "法律 AI - 幂律",
+            "url": "https://www.lawyee.ai",
+            "desc": "法律文书智能生成",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "医学 AI - 春雨医生",
+            "url": "https://ai.chunyuyisheng.com",
+            "desc": "AI 辅助问诊咨询",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "教育 AI - 可汗学院",
+            "url": "https://www.khanacademy.org/koans",
+            "desc": "AI 个性化辅导",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "设计 AI - 即时设计",
+            "url": "https://js.design/ai",
+            "desc": "AI 驱动 UI 设计",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "视频 AI - Runway",
+            "url": "https://runwayml.com",
+            "desc": "AI 视频生成剪辑",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "音频 AI - ElevenLabs",
+            "url": "https://elevenlabs.io",
+            "desc": "AI 语音克隆合成",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "代码 AI - CodeLlama",
+            "url": "https://ai.meta.com",
+            "desc": "Meta 开源代码模型",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "写作 AI - 秘塔写作猫",
+            "url": "https://xiezuocat.com",
+            "desc": "AI 校对改写润色",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          }
+        ],
         "id": 10042,
         "icon": ""
       }
@@ -14750,7 +14864,64 @@
       },
       {
         "title": "🧠 商业思维",
-        "nav": [],
+        "nav": [
+          {
+            "name": "李永乐老师",
+            "url": "https://www.youtube.com/@李永乐老师",
+            "desc": "科普经济学思维",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "薛兆丰经济学",
+            "url": "https://book.douban.com/subject/30171333",
+            "desc": "经济学讲义经典",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "穷查理宝典",
+            "url": "https://book.douban.com/subject/5346111",
+            "desc": "查理芒格智慧",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "富爸爸穷爸爸",
+            "url": "https://book.douban.com/subject/1033778",
+            "desc": "财商启蒙必读",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "纳瓦尔宝典",
+            "url": "https://book.douban.com/subject/35876115",
+            "desc": "财富与幸福指南",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "香帅的金融江湖",
+            "url": "https://space.bilibili.com/599152803",
+            "desc": "北大金融学教授",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "刘润商学院",
+            "url": "https://runliubusiness.com",
+            "desc": "商业思维日日更",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "得到-商学院",
+            "url": "https://www.dedao.cn",
+            "desc": "系统商业课程",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          }
+        ],
         "id": 10161,
         "icon": ""
       }
@@ -15545,7 +15716,64 @@
       },
       {
         "title": "💡 投资思维",
-        "nav": [],
+        "nav": [
+          {
+            "name": "但斌博客",
+            "url": "https://weibo.com/danbin",
+            "desc": "东方港湾价值投资",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "李录演讲",
+            "url": "https://book.douban.com/subject/35048422",
+            "desc": "文明现代化价值投资",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "唐朝书房",
+            "url": "https://github.com/ly5822716/TangStudyNotes",
+            "desc": "唐书房读书笔记",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "段永平投资问答",
+            "url": "https://github.com/taoboyong/DuanTalks",
+            "desc": "大道投资哲学",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "聪明的投资者",
+            "url": "https://book.douban.com/subject/5243775",
+            "desc": "格雷厄姆经典",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "证券分析",
+            "url": "https://book.douban.com/subject/24286066",
+            "desc": "投资者圣经",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "漫步华尔街",
+            "url": "https://book.douban.com/subject/3012153",
+            "desc": "指数投资理论",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "黑天鹅",
+            "url": "https://book.douban.com/subject/33414480",
+            "desc": "塔勒布不确定性",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          }
+        ],
         "id": 10166,
         "icon": ""
       }
@@ -16109,7 +16337,64 @@
       },
       {
         "title": "🧠 学习方法",
-        "nav": [],
+        "nav": [
+          {
+            "name": "费曼学习法",
+            "url": "https://book.douban.com/subject/35127068",
+            "desc": "世界顶级学习法",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "刻意练习",
+            "url": "https://book.douban.com/subject/26895993",
+            "desc": "如何成为天才",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "学习之道",
+            "url": "https://book.douban.com/subject/26948865",
+            "desc": "芭芭拉学习科学",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "认知天性",
+            "url": "https://book.douban.com/subject/30370272",
+            "desc": "让学习轻而易举",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "番茄工作法",
+            "url": "https://book.douban.com/subject/33428856",
+            "desc": "时间管理入门",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "搞定GTD",
+            "url": "https://book.douban.com/subject/4849382",
+            "desc": "无压工作艺术",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "思维导图",
+            "url": "https://book.douban.com/subject/35330062",
+            "desc": "东尼博赞经典",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "卡片笔记写作法",
+            "url": "https://book.douban.com/subject/35503571",
+            "desc": "卢曼智慧结晶",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          }
+        ],
         "id": 10175,
         "icon": ""
       },
@@ -16546,7 +16831,64 @@
       },
       {
         "title": "📖 教育理念",
-        "nav": [],
+        "nav": [
+          {
+            "name": "正面管教",
+            "url": "https://book.douban.com/subject/6875539",
+            "desc": "不惩罚不骄纵",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "PET父母效能训练",
+            "url": "https://book.douban.com/subject/6027916",
+            "desc": "亲子沟通圣经",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "如何说孩子才会听",
+            "url": "https://book.douban.com/subject/6950595",
+            "desc": "沟通技巧大全",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "蒙台梭利教育",
+            "url": "https://book.douban.com/subject/1278789",
+            "desc": "蒙氏教育经典",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "卢梭爱弥儿",
+            "url": "https://book.douban.com/subject/1008217",
+            "desc": "教育哲学经典",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "洛克菲勒家书",
+            "url": "https://book.douban.com/subject/24848058",
+            "desc": "留给儿子的信",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "傅雷家书",
+            "url": "https://book.douban.com/subject/1021332",
+            "desc": "中国式父爱",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          },
+          {
+            "name": "好妈妈胜过好老师",
+            "url": "https://book.douban.com/subject/3395133",
+            "desc": "尹建莉老师",
+            "rate": 5,
+            "createdAt": "2026-04-17T06:10:15.140Z"
+          }
+        ],
         "id": 10182,
         "icon": ""
       }
