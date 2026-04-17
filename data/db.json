@@ -4219,6 +4219,134 @@
         "title": "🤖 ChatGPT 全家桶",
         "nav": [
           {
+            "name": "OpenAI GPT-4o",
+            "url": "https://chat.openai.com",
+            "desc": "OpenAI旗舰模型，实时多模态理解",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.021Z"
+          },
+          {
+            "name": "Anthropic Claude 4",
+            "url": "https://claude.ai",
+            "desc": "深度推理型智能体，长文档处理专家",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Gemini 2.0",
+            "url": "https://gemini.google.com",
+            "desc": "谷歌多模态大模型，视频解析领先",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "DeepSeek",
+            "url": "https://chat.deepseek.com",
+            "desc": "国产开源模型，代码推理超强",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Kimi 长文本",
+            "url": "https://kimi.moonshot.cn",
+            "desc": "200万字超长上下文，读论文神器",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "字节豆包",
+            "url": "https://www.doubao.com",
+            "desc": "字节跳动大模型，即梦AI作图",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "通义千问",
+            "url": "https://qianwen.aliyun.com",
+            "desc": "阿里大模型，擅长代码数学",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "文心一言",
+            "url": "https://yiyan.baidu.com",
+            "desc": "百度大模型，中文生态完善",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Cursor IDE",
+            "url": "https://cursor.sh",
+            "desc": "AI编程编辑器，项目级理解",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "GitHub Copilot",
+            "url": "https://github.com/copilot",
+            "desc": "实时代码补全助手",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "扣子 Coze",
+            "url": "https://www.coze.cn",
+            "desc": "字节智能体平台，一键发布多平台",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Dify",
+            "url": "https://dify.ai",
+            "desc": "全流程AI应用开发平台",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "GPTBots",
+            "url": "https://gptbots.ai",
+            "desc": "企业级AI智能体平台",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "FastGPT",
+            "url": "https://fastgpt.in",
+            "desc": "开源RAG知识库系统",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "v0.dev",
+            "url": "https://v0.dev",
+            "desc": "Vercel UI生成工具",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Midjourney",
+            "url": "https://www.midjourney.com",
+            "desc": "AI画图天花板",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
             "name": "贺叔叔自建AI",
             "createdAt": "2024-05-29T22:53:20.512Z",
             "rate": 5,
@@ -13059,6 +13187,62 @@
             "ownVisible": null,
             "nav": [
               {
+                "name": "国家中小学智慧教育平台",
+                "url": "https://basic.smartedu.cn",
+                "desc": "教育部官方免费课程平台",
+                "rate": 5,
+                "icon": "",
+                "createdAt": "2026-04-17T05:59:39.027Z"
+              },
+              {
+                "name": "学习强国-教育板块",
+                "url": "https://www.xuexi.cn",
+                "desc": "隐藏学习神器，全学段覆盖",
+                "rate": 5,
+                "icon": "",
+                "createdAt": "2026-04-17T05:59:39.027Z"
+              },
+              {
+                "name": "中国儿童中心",
+                "url": "https://www.ccc.org.cn",
+                "desc": "官方育儿知识+早教方案",
+                "rate": 5,
+                "icon": "",
+                "createdAt": "2026-04-17T05:59:39.027Z"
+              },
+              {
+                "name": "国家数字图书馆",
+                "url": "https://www.nlc.cn",
+                "desc": "海量电子书免费读",
+                "rate": 5,
+                "icon": "",
+                "createdAt": "2026-04-17T05:59:39.027Z"
+              },
+              {
+                "name": "学堂在线",
+                "url": "https://www.xuetangx.com",
+                "desc": "清华慕课平台",
+                "rate": 5,
+                "icon": "",
+                "createdAt": "2026-04-17T05:59:39.027Z"
+              },
+              {
+                "name": "中国大学MOOC",
+                "url": "https://www.icourse163.org",
+                "desc": "名校公开课",
+                "rate": 5,
+                "icon": "",
+                "createdAt": "2026-04-17T05:59:39.027Z"
+              },
+              {
+                "name": "可汗学院",
+                "url": "https://www.khanacademy.org",
+                "desc": "全球免费教育",
+                "rate": 5,
+                "icon": "",
+                "createdAt": "2026-04-17T05:59:39.027Z"
+              },
+              {
                 "createdAt": "2025-04-25T08:50:57.588Z",
                 "title": "学习网站",
                 "icon": null,
@@ -13690,6 +13874,102 @@
         "title": "🌍 远程工作",
         "nav": [
           {
+            "name": "Next.js",
+            "url": "https://nextjs.org",
+            "desc": "全栈开发框架首选",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Supabase",
+            "url": "https://supabase.com",
+            "desc": "开源Firebase替代，后端即服务",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Vercel",
+            "url": "https://vercel.com",
+            "desc": "一键部署前端",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Trae IDE",
+            "url": "https://trae.ai",
+            "desc": "中文友好AI编程助手",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Upwork",
+            "url": "https://www.upwork.com",
+            "desc": "全球远程接单平台",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Fiverr",
+            "url": "https://www.fiverr.com",
+            "desc": "数字服务集市",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Stripe",
+            "url": "https://stripe.com",
+            "desc": "全球支付接口",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Lemon Squeezy",
+            "url": "https://lemonsqueezy.com",
+            "desc": "SaaS支付订阅",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Sentry",
+            "url": "https://sentry.io",
+            "desc": "错误监控平台",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Figma",
+            "url": "https://figma.com",
+            "desc": "UI设计协作工具",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Framer",
+            "url": "https://framer.com",
+            "desc": "无代码建站工具",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "Webflow",
+            "url": "https://webflow.com",
+            "desc": "专业无代码网站",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
             "icon": "https://uzer.me/favicon.ico",
             "name": "UZER.ME",
             "desc": "超级应用空间致力于全生命周期的文档管理,无需安装,即可在线编辑Office, CAD,PS等任意格式文档,支持远程协作,全文检索,版本管理,权限管理,安全外发等.提高工作效率,降低安全风险",
@@ -13913,6 +14193,70 @@
       {
         "title": "📊 财经资讯",
         "nav": [
+          {
+            "name": "东方财富研报中心",
+            "url": "https://data.eastmoney.com/report",
+            "desc": "国内最大免费研报平台",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "慧博投研",
+            "url": "https://www.hibor.com.cn",
+            "desc": "专业机构研报平台",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "发现报告",
+            "url": "https://www.fxbaogao.com",
+            "desc": "一站式研报整合平台",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "理杏仁",
+            "url": "https://www.lixinger.com",
+            "desc": "A股财报数据分析",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "雪球",
+            "url": "https://xueqiu.com",
+            "desc": "投资者社区",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "集思录",
+            "url": "https://www.jisilu.cn",
+            "desc": "低风险投资社区",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "巨潮资讯",
+            "url": "http://www.cninfo.com.cn",
+            "desc": "证监会指定披露平台",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
+          {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com",
+            "desc": "全球行情图表",
+            "rate": 5,
+            "icon": "",
+            "createdAt": "2026-04-17T05:59:39.026Z"
+          },
           {
             "name": "简道云",
             "createdAt": "2024-05-29T22:13:53.900Z",
