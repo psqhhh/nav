@@ -192,7 +192,10 @@ export async function updateFileContent({
       })
   }
 
-  if (path === DB_PATH) {
+  // 纯静态模式下，仓库里的 data/db.json 由构建时原样打进 JS 包，
+  // 必须保持纯 JSON；一旦压缩成 base64，下次构建会解析失败导致整站挂掉。
+  // 压缩仅在“自研后端”模式下才需要（该分支已在上方提前 return）。
+  if (path === DB_PATH && isSelfDevelop) {
     content = LZString.compressToBase64(content)
   }
   const commitMessage = `rebot(CI): ${message}`

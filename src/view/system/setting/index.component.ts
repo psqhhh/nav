@@ -107,7 +107,7 @@ export default class SystemSettingComponent {
       settings(),
     ),
     img: replaceJsdelivrCDN(
-      'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/4.png',
+      '/gh-assets/nav/4.png',
       settings(),
     ),
     tags: [],

@@ -12,8 +12,8 @@
 # 作者 GitLab 仓库地址 https://gitlab.com/xjh22222228/nav?projectId=68880543, projectId 是项目 ID，可在仓库页面中找到
 gitRepoUrl: https://github.com/psqhhh/nav
 
-# Fork 部署分支
-branch: master
+# Fork 部署分支（必须与 GitHub 仓库默认分支一致，否则后台“同步数据”提交到的分支不会触发 Vercel 重新构建）
+branch: main
 
 # 默认Fork仓库
 # 仓库必须自己提前创建，如果打算长期使用本软件，建议每个人都创建一个新的仓库作为图片存储
@@ -21,8 +21,8 @@ branch: master
 # gitlab e.g 'https://gitlab.com/xjh22222228/image?branch=main&projectId=1001'
 imageRepoUrl: ''
 
-# 只有GitHub pages用户需要设置为true， 其他建议设置为 false
-hashMode: true
+# 仅 GitHub Pages 用户需要 true；Vercel/Netlify 等托管建议 false，可获得更干净的 URL 与更好的 SEO
+hashMode: false
 
 # 一旦填写认为你是自有部署，Fork 不要填写
 address: ''

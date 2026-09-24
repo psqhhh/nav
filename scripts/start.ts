@@ -92,7 +92,7 @@ const main = async () => {
           name: '站内',
           icon:
             settings.favicon ||
-            'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/logo.svg',
+            '/gh-assets/nav/logo.svg',
           placeholder: '站内搜索',
           blocked: false,
           isInner: true,
@@ -175,7 +175,7 @@ const main = async () => {
     const image = {
       type: ComponentType.Image,
       id: -ComponentType.Image,
-      url: 'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/component1.jpg',
+      url: '/gh-assets/nav/component1.jpg',
       go: '',
       text: '只有认可，才能强大',
     }
@@ -200,7 +200,7 @@ const main = async () => {
       id: -ComponentType.Countdown,
       topColor: 'linear-gradient(90deg, #FAD961 0%, #F76B1C 100%)',
       bgColor: 'rgb(235,129,124)',
-      url: 'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/component2.jpg',
+      url: '/gh-assets/nav/component2.jpg',
       title: '距离春节还有',
       dateColor: '#fff',
       dayColor: '#fff',
@@ -356,14 +356,14 @@ const main = async () => {
 
   {
     const banner1 =
-      'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/banner1.jpg'
+      '/gh-assets/nav/banner1.jpg'
     const banner2 =
-      'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/banner2.jpg'
+      '/gh-assets/nav/banner2.jpg'
     const backgroundImg =
-      'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/background.jpg'
+      '/gh-assets/nav/background.jpg'
 
     settings.favicon ??=
-      'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/logo.svg'
+      '/gh-assets/nav/logo.svg'
     settings.language ||= 'zh-CN'
     settings.loading ??= 'random'
     settings.runtime ??= dayjs.tz().valueOf()
@@ -427,7 +427,7 @@ const main = async () => {
         url: 'https://haokawx.lot-ml.com/Product/index/454266',
       },
       {
-        src: 'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/10.png',
+        src: '/gh-assets/img/10.png',
         url: '',
       },
     ]

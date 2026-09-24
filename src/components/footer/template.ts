@@ -42,7 +42,7 @@ const t: Record<string, any> = {
 
     <div class="text-center w-32 max-full">
       <div>
-        <img src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/202.jpg" class="w-full" />
+        <img src="/gh-assets/img/202.jpg" class="w-full" />
       </div>
     </div>
   </div>
@@ -63,7 +63,7 @@ const t: Record<string, any> = {
   <div class="mt-2 md:mt-0 flex justify-center items-center mr-4">
     <img
       class="w-6 h-6 mr-2"
-      src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/logo.svg"
+      src="/gh-assets/nav/logo.svg"
     />
     &commat; $\{year} $\{hostname}, $\{total}.
   </div>

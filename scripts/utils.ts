@@ -87,7 +87,8 @@ export const getConfig = () => {
   )
   return {
     version: pkgJson.version,
-    zorroDark: `//gcore.jsdelivr.net/npm/ng-zorro-antd@${zorroVersion}/ng-zorro-antd.dark.min.css`,
+    // 自托管：暗色主题 CSS 已下载到 public/vendor/，避免依赖 jsdelivr（国内常慢/被墙）
+    zorroDark: `/vendor/ng-zorro-antd.dark.min.css`,
     gitRepoUrl,
     imageRepoUrl: config['imageRepoUrl'],
     branch: config['branch'],
